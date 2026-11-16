@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.venv/
+venv/
+# outputs of nucleoqc runs in the repository root
+/*.tsv
+/*.json
+/*.png
+# outputs and search cache of the analysis scripts
+paper/search_work/
+paper/figures/
+paper/*_results*.txt
+paper/*_figure*.png
+paper/annotation_snippets.txt
+paper/nucleic_census.tsv

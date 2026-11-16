@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use nucleoqc, please cite the article below (preferred citation)."
+type: software
+title: "nucleoqc: quality control for co-isolated nucleic acid in proteomics MS2 spectra"
+version: 0.3.0
+date-released: 2026-11-16
+license: MIT
+repository-code: "https://github.com/Enso-bio/nucleoqc"
+keywords:
+  - proteomics
+  - mass spectrometry
+  - quality control
+  - nucleic acid
+  - PRIDE
+authors:
+  - family-names: Torres Alegre
+    given-names: Enso Onill
+    affiliation: University of Notre Dame
+  - family-names: Mora Jimenez
+    given-names: Diana E.
+    affiliation: University of Notre Dame
+preferred-citation:
+  type: article
+  title: "Co-isolated nucleic acid in public proteomics data: prevalence, association with peptide identification, and a quality-control tool"
+  authors:
+    - family-names: Torres Alegre
+      given-names: Enso Onill
+      affiliation: University of Notre Dame
+    - family-names: Mora Jimenez
+      given-names: Diana E.
+      affiliation: University of Notre Dame
+  year: 2026
+  status: in-preparation

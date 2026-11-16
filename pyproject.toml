@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nucleoqc"
+version = "0.3.0"
+description = "Quality control for co-isolated nucleic acid in proteomics MS2 spectra (local or PRIDE MGF/mzML)"
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+requires-python = ">=3.8"
+dependencies = ["numpy>=1.20"]
+keywords = ["proteomics", "mass spectrometry", "quality control", "nucleic acid", "PRIDE"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+]
+
+[project.optional-dependencies]
+figure = ["matplotlib>=3.3"]
+test = ["pytest"]
+
+[project.scripts]
+nucleoqc = "nucleoqc.cli:main"
+
+[project.gui-scripts]
+nucleoqc-gui = "nucleoqc.gui:main"
+
+[tool.setuptools]
+packages = ["nucleoqc"]
+
+[tool.setuptools.package-data]
+nucleoqc = ["icon.png", "icon64.png", "icon.ico"]

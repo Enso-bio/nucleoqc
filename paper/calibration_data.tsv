@@ -1,0 +1,34 @@
+group	source	project	file	proteome	estimated	measured
+contaminated	validation 1	PXD013964	Benz_Ncrassa_A_04_01_13_phos_11may17_Pippin_16-11-31.mgf	neurospora	22.14	22.80
+contaminated	validation 1	PXD030165	Q26761_MS20-013_SN2.mgf	bcereus_atcc14579	7.88	9.49
+contaminated	validation 1	PXD030165	Q26774_MS20-013_SN15.mgf	bcereus_atcc14579	1.01	1.94
+contaminated	validation 1	PXD028074	KapB1_MGF__F066073_.mzid_KapB1_MGF__F066073_.MGF	dog	1.48	1.86
+contaminated	validation 1	PXD067736	20-89PD22_3h-PTM.mzML	candida	0.82	1.57
+contaminated	validation 1	PXD022858	ZN05_AllF063786.mzid_ZN05_All_F063786.MGF	saureus_nctc8325	0.80	1.03
+contaminated	validation 1	PXD011041	Salmonella_230614_04.mgf	salmonella_lt2	0.64	0.43
+contaminated	validation 1	PXD011041	Salmonella_230614_11.mgf	salmonella_lt2	0.82	0.06
+contaminated	validation 1	PXD012818	GPM00500047074.mzid_GPM00500047074.MGF	human	11.78	0.67
+contaminated	validation 1	PXD047868	230206_Q1_PR_guide_pool.mzid_230206_Q1_PR_guide_pool.MGF	human	5.22	3.78
+contaminated	validation 1	PXD068775	Gireesh_etal_2025_NCPs_CPC_1_190_noUV_Rep2.mzML	human	3.45	5.41
+contaminated	extension	PXD035527	0__1hour_PP3_r1.raw.-1.mgf	human	52.91	67.27
+contaminated	extension	PXD068482	QE1_SMMG_EXP03_PP_Sample_05.raw.-1.mgf	human	30.52	14.08
+contaminated	extension	PXD042938	LFQ_CD19_6vs6_area_ttest.mzML	human	9.76	14.36
+contaminated	extension	PXD044361	PKGAID_phosphoproteome_V2_multiconsensus.mzML	toxoplasma_me49	6.64	3.02
+contaminated	extension	PXD053240	20211013_SARS_Cells_TMT16plex_Fosfo_Time_ttest_Allcomparison.mzML	human	4.51	5.13
+contaminated	extension	PXD042640	JCP_051422_AC4_pY_PDX11_erl_ag_18plex.mzML	human	2.50	1.04
+contaminated	extension	PXD053061	Adipocytes_Phospho_HpHF02.mzML	mouse_sp	2.51	7.36
+contaminated	extension	PXD054611	P775-R100_Hek293T_pcDNA3-1_HA_UT.mzML	human	0.72	0.45
+contaminated	extension	PXD047971	SE_515_K-3__5_0ul.mgf	saureus_nctc8325	0.47	0.13
+contaminated	extension	PXD014222	qExHF01_06004.mgf	human	0.44	-0.31
+contaminated	extension	PXD073126	250501_ZMM_KMI_sFtsk_4.mzML	msmegmatis_mc2	0.40	1.36
+contaminated	extension	PXD070403	Imp70-1.mzML	pig	0.69	-0.01
+contaminated	extension	PXD015689	20191001Sheep_Fat_bandb.MSMS.mgf	sheep	0.49	0.86
+clean	extension	PXD047310	FruBP_Probe_final.mgf	human	0.05	-0.01
+clean	extension	PXD083967	20241106_DOD_1_164_64.mgf	mouse_sp	0.02	0.11
+clean	extension	PXD035984	QE2_William_Dominique_TP_LSK_Wt_A.raw.-1.mgf	mouse_sp	0.00	0.00
+clean	extension	PXD042789	CELL-2.mzML	mouse_sp	0.00	0.00
+clean	extension	PXD014443	20170412_QECl_MYW_SA_Hofer_Micro_NonPhosFr.mgf	mouse_sp	0.00	0.00
+clean	extension	PXD044432	Progenesisexport.DerivedFromSearchf052ec9d-7b61-4a70-a13c-553f587fbc71.mgf	human	0.00	0.00
+clean	extension	PXD043220	OH_20220425_AdtoSph_Proteome_F5.mzML	human	0.00	0.00
+clean	extension	PXD073483	20250114_hela_50ng_ACN02.mgf	human	0.00	0.00
+clean	extension	PXD028802	Batch6_CL_Pool.raw__F008342_.mzid_Batch6_CL_Pool.raw__F008342_.MGF	human	0.00	0.00

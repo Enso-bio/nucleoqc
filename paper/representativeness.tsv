@@ -1,0 +1,704 @@
+project	group	year	instrument_family	phospho_enrichment	nuclease	sonication	ip_ap_ms	nucleic_acid_binding	cross_linking	isobaric_labelling	body_fluids	tissue	in_gel_digestion	sp3_strap_fasp	glyco	acetyl_ubiquitin	bacteria
+PXD005018	raw_only	2016	Velos	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD005310	raw_only	2016	Elite	0	0	0	1	0	0	0	0	0	0	0	0	1	0
+PXD004756	raw_only	2016	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD005932	raw_only	2017	Q Exactive	0	0	1	0	0	0	1	0	1	0	0	0	0	0
+PXD005131	peak_lists	2016	TripleTOF	0	1	1	0	0	0	0	1	0	0	0	0	0	0
+PXD004819	raw_only	2016	other	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+PXD005085	raw_only	2016	Velos	0	0	0	0	0	0	1	0	0	0	1	0	0	0
+PXD005031	raw_only	2016	Elite	0	0	1	0	0	0	0	0	0	1	0	0	0	0
+PXD004938	raw_only	2016	Elite	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD005140	raw_only	2016	Q Exactive	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+PXD004920	peak_lists	2016	Velos	0	0	0	0	0	1	0	1	0	1	0	0	0	0
+PXD005014	peak_lists	2016	Q Exactive	0	0	0	0	0	0	0	1	1	0	0	0	0	0
+PXD013608	peak_lists	2019	Lumos	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD019612	peak_lists	2020	Velos	0	1	0	0	0	0	1	0	0	0	0	0	0	0
+PXD018784	peak_lists	2020	timsTOF	0	0	1	0	0	0	1	0	0	0	0	0	0	0
+PXD013174	peak_lists	2019	Q Exactive	0	0	0	0	0	0	1	1	0	0	0	0	0	0
+PXD021498	peak_lists	2020	Q Exactive	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+PXD019823	peak_lists	2020	Q Exactive	1	0	0	0	0	0	0	0	0	0	0	1	0	0
+PXD015280	peak_lists	2020	Velos	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD016688	peak_lists	2019	Fusion	0	0	0	0	1	0	0	0	1	0	0	0	0	0
+PXD021683	peak_lists	2020	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD021992	peak_lists	2020	Fusion	1	0	1	1	0	1	0	1	1	0	0	0	1	0
+PXD020210	peak_lists	2020	Lumos	1	0	0	1	0	1	0	0	0	0	0	0	0	0
+PXD019825	peak_lists	2020	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+PXD020970	peak_lists	2020	Fusion	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD029980	raw_only	2021	Q Exactive	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+PXD029795	raw_only	2021	Q Exactive	1	0	0	0	0	0	0	0	1	0	1	0	0	0
+PXD027403	raw_only	2021	TripleTOF	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD026710	raw_only	2021	TripleTOF	0	0	0	0	0	0	1	0	1	0	0	0	0	0
+PXD027419	raw_only	2021	Q Exactive	1	0	0	0	0	0	1	0	1	0	0	0	0	0
+PXD027334	raw_only	2021	Q Exactive	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+PXD027352	raw_only	2021	Lumos	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD027864	raw_only	2021	timsTOF	0	0	1	0	0	0	0	0	1	1	0	0	0	0
+PXD027407	peak_lists	2021	TripleTOF	0	0	0	0	0	0	0	1	0	1	0	0	0	0
+PXD022357	raw_only	2021	Q Exactive	0	0	0	0	1	0	0	0	1	0	0	0	0	0
+PXD027332	raw_only	2021	Q Exactive	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD027669	raw_only	2021	Lumos	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD026772	raw_only	2021	Fusion	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+PXD020881	raw_only	2020	Lumos	0	0	0	0	0	0	1	0	0	0	0	0	1	0
+PXD020948	raw_only	2020	Q Exactive	0	0	1	0	0	0	0	0	1	0	0	0	0	0
+PXD021165	raw_only	2020	other	0	0	0	0	0	0	0	0	1	0	1	0	0	0
+PXD019144	raw_only	2020	Lumos	0	0	0	0	0	0	1	0	0	0	0	0	1	0
+PXD021772	raw_only	2020	Q Exactive	0	1	0	1	1	1	0	1	0	1	0	1	0	0
+PXD024154	raw_only	2021	Fusion	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD021240	raw_only	2020	Lumos	0	0	0	0	0	0	1	0	0	0	0	0	1	0
+PXD024290	raw_only	2021	TripleTOF	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD025261	raw_only	2021	Q Exactive	0	0	0	0	0	0	1	0	1	0	0	0	0	0
+PXD024387	raw_only	2021	Q Exactive	0	0	1	1	0	0	0	0	0	0	0	0	0	1
+PXD021541	raw_only	2020	Q Exactive	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD021681	raw_only	2020	Q Exactive	0	0	1	0	0	0	1	0	0	0	0	0	0	1
+PXD019995	peak_lists	2020	Q Exactive	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+PXD024198	peak_lists	2021	Lumos	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD063984	raw_only	2025	timsTOF	0	0	1	1	1	0	0	0	0	0	0	0	0	0
+PXD061213	raw_only	2025	Q Exactive	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+PXD061393	raw_only	2025	Exploris	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+PXD058936	raw_only	2024	Q Exactive	0	0	0	1	1	0	0	0	0	1	0	0	0	0
+PXD071646	raw_only	2025	Q Exactive	0	0	1	1	0	0	0	0	0	1	0	0	0	0
+PXD063057	raw_only	2025	other	0	0	0	1	0	0	0	1	0	0	1	0	1	0
+PXD051149	raw_only	2024	other	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD071075	raw_only	2025	Eclipse	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD063126	raw_only	2025	Exploris	1	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD063083	raw_only	2025	Lumos	1	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD064106	raw_only	2025	Q Exactive	0	0	1	1	1	0	0	0	1	0	0	0	0	0
+PXD059963	raw_only	2025	timsTOF	0	0	0	0	0	0	0	0	1	0	1	0	0	0
+PXD061132	raw_only	2025	Astral	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD055846	raw_only	2024	Q Exactive	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD043585	raw_only	2023	Q Exactive	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+PXD045759	raw_only	2023	Q Exactive	0	0	0	0	0	0	1	0	1	0	0	0	0	0
+PXD042935	raw_only	2023	timsTOF	0	0	0	0	0	0	0	0	1	0	0	0	1	0
+PXD038656	raw_only	2022	Elite	0	0	0	0	1	0	0	1	0	0	1	0	0	0
+PXD038324	raw_only	2022	Q Exactive	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD051968	raw_only	2024	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD052497	raw_only	2024	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+PXD048726	raw_only	2024	Eclipse	0	0	0	0	0	0	0	1	1	0	0	0	0	0
+PXD040196	raw_only	2023	Lumos	1	0	0	0	0	0	0	0	1	0	0	1	0	0
+PXD052347	raw_only	2024	Exploris	0	0	1	0	0	0	1	0	0	0	0	0	0	0
+PXD037239	raw_only	2022	other	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+PXD005644	raw_only	2017	Q Exactive	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+PXD041750	raw_only	2023	timsTOF	0	0	0	0	0	0	0	1	1	0	1	0	0	1
+PXD047332	raw_only	2023	Lumos	0	0	1	1	0	0	0	0	0	0	0	0	1	0
+PXD045756	raw_only	2023	Q Exactive	0	0	0	0	0	0	1	0	1	0	0	0	0	0
+PXD013062	raw_only	2019	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD001061	raw_only	2014	Q Exactive	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD008504	raw_only	2017	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD002369	raw_only	2015	Q Exactive	0	0	1	0	0	0	0	0	0	1	0	0	0	1
+PXD013030	raw_only	2019	Q Exactive	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+PXD013051	raw_only	2019	other	1	0	0	0	1	0	0	0	0	0	0	0	0	0
+PXD009822	raw_only	2018	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD014350	raw_only	2019	Velos	0	0	0	0	0	0	1	0	1	0	0	0	0	0
+PXD013083	raw_only	2019	Q Exactive	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+PXD013019	raw_only	2019	Q Exactive	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+PXD008500	raw_only	2017	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD002398	raw_only	2015	Q Exactive	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+PXD045006	raw_only	2023	timsTOF	0	1	0	0	0	0	0	1	1	0	1	0	0	0
+PXD049322	raw_only	2024	Fusion	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+PXD043254	raw_only	2023	Q Exactive	0	0	1	0	1	1	0	0	0	0	0	0	0	0
+PXD038063	raw_only	2022	Q Exactive	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD029606	raw_only	2021	Exploris	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD048799	raw_only	2024	Q Exactive	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD048453	peak_lists	2024	TripleTOF	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD034460	raw_only	2022	Lumos	0	0	1	0	0	0	0	1	1	0	0	0	0	0
+PXD034573	raw_only	2022	Q Exactive	0	0	1	0	0	0	0	1	1	0	0	0	0	0
+PXD046155	raw_only	2023	Fusion	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+PXD047238	raw_only	2023	Q Exactive	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+PXD047847	raw_only	2023	Lumos	0	0	1	0	1	1	0	0	0	0	0	0	0	0
+PXD044743	raw_only	2023	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD036968	raw_only	2022	Exploris	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+PXD045155	raw_only	2023	Exploris	0	0	0	0	0	0	0	1	1	0	1	1	0	0
+PXD044845	raw_only	2023	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD039655	raw_only	2023	TripleTOF	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD047897	peak_lists	2023	Velos	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD032156	raw_only	2022	Q Exactive	0	0	0	1	0	0	0	0	0	0	1	1	0	0
+PXD036783	raw_only	2022	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+PXD044940	raw_only	2023	timsTOF	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD052806	raw_only	2024	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD053707	raw_only	2024	Q Exactive	0	0	0	0	0	0	0	0	0	1	0	0	1	0
+PXD054505	raw_only	2024	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD053560	raw_only	2024	Exploris	0	0	0	0	0	0	1	1	0	0	1	0	0	0
+PXD053311	raw_only	2024	Lumos	1	0	1	0	0	0	1	0	0	0	0	0	0	0
+PXD053899	raw_only	2024	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD052229	raw_only	2024	Exploris	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD030312	raw_only	2021	Q Exactive	0	0	0	0	1	0	0	0	0	0	0	0	0	1
+PXD053209	raw_only	2024	Fusion	0	0	0	0	1	1	0	0	0	0	1	0	0	0
+PXD015297	raw_only	2019	Q Exactive	0	0	0	1	0	0	0	0	1	0	0	0	0	0
+PXD026464	raw_only	2021	Q Exactive	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+PXD048653	peak_lists	2024	Eclipse	0	0	0	0	1	0	1	0	0	0	1	0	0	0
+PXD048895	peak_lists	2024	Eclipse	0	0	0	0	0	0	1	0	1	0	0	0	0	0
+PXD050404	raw_only	2024	Q Exactive	0	1	0	0	1	0	1	0	0	0	0	0	0	1
+PXD053043	raw_only	2024	Exploris	0	1	0	1	0	0	0	0	1	0	0	0	0	0
+PXD050035	raw_only	2024	Q Exactive	1	0	0	1	0	0	0	0	0	1	0	0	0	0
+PXD057430	raw_only	2024	Q Exactive	0	0	0	1	0	0	0	0	0	1	0	0	0	0
+PXD054599	peak_lists	2024	Exploris	1	1	1	0	0	0	0	0	0	0	0	0	0	0
+PXD056696	raw_only	2024	Q Exactive	0	1	0	0	0	0	0	0	0	0	1	0	0	0
+PXD043481	raw_only	2023	Fusion	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+PXD055207	peak_lists	2024	Q Exactive	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+PXD056825	raw_only	2024	Elite	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+PXD048776	raw_only	2024	Lumos	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+PXD067537	raw_only	2025	Exploris	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD062597	raw_only	2025	timsTOF	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD068819	raw_only	2025	Q Exactive	0	0	1	0	0	0	0	0	0	1	0	1	0	0
+PXD064974	raw_only	2025	Exploris	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD072731	raw_only	2026	Exploris	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+PXD080500	raw_only	2026	Lumos	0	0	0	0	0	0	0	0	1	0	0	0	0	1
+PXD081461	raw_only	2026	Exploris	0	0	0	0	0	0	0	1	0	0	0	1	0	0
+PXD058895	raw_only	2024	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD081521	raw_only	2026	Eclipse	1	0	1	0	0	0	0	0	1	0	1	0	1	0
+PXD068212	raw_only	2025	Astral	0	0	0	1	0	0	0	0	1	0	0	0	0	0
+PXD076470	raw_only	2026	Q Exactive	0	0	0	0	1	0	0	0	0	0	1	1	0	0
+PXD077783	raw_only	2026	Exploris	0	0	0	0	0	0	1	1	0	0	1	0	0	0
+PXD084238	raw_only	2026	Q Exactive	0	0	1	0	0	0	0	1	1	0	0	1	0	0
+PXD044111	raw_only	2023	timsTOF	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+PXD046673	raw_only	2023	Q Exactive	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+PXD043941	raw_only	2023	Q Exactive	0	0	1	1	0	0	0	1	0	0	0	0	0	0
+PXD046003	raw_only	2023	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+PXD046998	raw_only	2023	timsTOF	0	0	1	0	0	0	0	0	1	0	0	0	0	0
+PXD046479	raw_only	2023	TripleTOF	0	0	1	1	1	0	0	0	0	0	0	0	0	0
+PXD046355	raw_only	2023	Exploris	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD045999	raw_only	2023	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD040973	raw_only	2023	Q Exactive	0	0	0	0	0	0	0	0	1	0	1	0	0	0
+PXD044504	raw_only	2023	Q Exactive	1	1	0	0	0	1	0	0	0	1	0	1	0	0
+PXD037151	raw_only	2022	other	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD040380	raw_only	2023	Fusion	1	0	0	1	0	0	0	0	0	1	0	0	0	0
+PXD046970	raw_only	2023	Lumos	0	0	1	0	1	0	1	0	0	0	0	0	0	0
+PXD045725	peak_lists	2023	Q Exactive	0	1	0	0	0	1	0	0	0	0	0	0	0	0
+PXD043619	raw_only	2023	Lumos	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+PXD012664	peak_lists	2019	Q Exactive	1	0	0	0	0	0	1	0	1	0	0	1	0	0
+PXD025437	raw_only	2021	Lumos	0	1	1	1	1	0	0	0	0	1	0	0	0	0
+PXD045381	raw_only	2023	Lumos	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+PXD043296	raw_only	2023	Q Exactive	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD041693	raw_only	2023	Lumos	0	0	1	0	0	0	0	1	0	0	0	0	0	1
+PXD043483	raw_only	2023	Lumos	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD040793	raw_only	2023	Velos	0	0	0	1	0	0	0	1	0	1	0	0	0	0
+PXD032192	raw_only	2022	timsTOF	1	0	1	0	0	0	0	0	1	0	1	0	1	0
+PXD042101	raw_only	2023	Eclipse	0	0	1	0	0	0	1	1	1	0	0	0	0	1
+PXD045487	raw_only	2023	Exploris	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+PXD040979	raw_only	2023	Q Exactive	0	0	0	0	1	0	0	0	0	1	0	0	0	0
+PXD042393	raw_only	2023	Q Exactive	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+PXD037663	raw_only	2022	Q Exactive	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD036510	raw_only	2022	Q Exactive	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD041993	raw_only	2023	timsTOF	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD016098	peak_lists	2019	Q Exactive	0	0	1	0	0	0	1	1	1	0	1	0	0	1
+PXD017054	peak_lists	2020	Fusion	0	0	0	0	1	0	1	0	0	0	0	0	0	0
+PXD011799	peak_lists	2019	Lumos	1	0	1	0	0	0	1	0	1	0	1	1	0	0
+PXD009743	raw_only	2019	Q Exactive	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+PXD015008	raw_only	2019	Q Exactive	1	0	0	1	0	0	0	1	1	1	0	0	1	0
+PXD015432	raw_only	2019	Q Exactive	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD015522	raw_only	2019	Q Exactive	0	0	1	0	0	0	0	0	0	0	1	1	0	0
+PXD014895	raw_only	2019	Velos	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD015474	raw_only	2019	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD016125	raw_only	2019	Fusion	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+PXD015511	peak_lists	2019	TripleTOF	0	0	1	0	0	0	0	1	0	1	0	0	0	0
+PXD014772	raw_only	2019	Velos	0	0	0	1	0	0	0	0	0	1	0	0	0	0
+PXD016099	raw_only	2019	Q Exactive	0	0	0	1	0	0	0	0	1	0	0	0	0	1
+PXD015021	raw_only	2019	Lumos	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD030386	raw_only	2021	Lumos	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+PXD044140	raw_only	2023	Exploris	0	0	1	0	0	0	0	0	1	0	1	1	0	0
+PXD049077	raw_only	2024	Exploris	1	0	1	0	0	0	0	1	0	0	0	0	0	0
+PXD021188	raw_only	2020	Q Exactive	0	0	0	0	0	0	0	0	1	0	0	0	1	0
+PXD049299	raw_only	2024	Q Exactive	1	0	1	0	0	0	0	0	0	0	1	0	0	0
+PXD048042	raw_only	2023	Q Exactive	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+PXD043897	raw_only	2023	Q Exactive	0	0	1	0	0	0	1	0	0	0	0	0	0	0
+PXD046500	raw_only	2023	Q Exactive	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+PXD053208	raw_only	2024	Q Exactive	0	1	1	1	1	0	0	0	0	0	0	0	0	0
+PXD048073	raw_only	2023	Exploris	1	0	0	0	0	0	1	0	0	0	0	1	0	0
+PXD041846	raw_only	2023	Q Exactive	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+PXD047767	peak_lists	2023	Velos	1	0	1	1	1	1	0	0	0	0	0	0	0	0
+PXD050077	raw_only	2024	Fusion	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+PXD051107	raw_only	2024	Fusion	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+PXD043904	raw_only	2023	Lumos	1	0	1	0	0	0	1	0	1	0	0	0	1	0
+PXD045647	peak_lists	2023	Q Exactive	0	0	1	0	0	0	0	1	1	0	0	0	0	0
+PXD050776	peak_lists	2024	other	0	0	0	1	1	0	0	0	0	1	0	0	0	1
+PXD033061	peak_lists	2022	Q Exactive	1	0	0	0	0	0	0	0	1	0	0	1	1	0
+PXD046392	peak_lists	2023	Eclipse	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+PXD048531	peak_lists	2024	Lumos	1	0	1	0	0	0	1	0	0	0	0	0	0	0
+PXD048529	peak_lists	2024	Lumos	1	0	1	0	0	0	1	0	0	0	0	0	0	0
+PXD046824	peak_lists	2023	Fusion	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD039837	peak_lists	2023	Q Exactive	0	0	1	1	0	0	0	0	0	0	0	1	0	0
+PXD042316	peak_lists	2023	timsTOF	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD046822	peak_lists	2023	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD047823	peak_lists	2023	Exploris	1	0	1	0	0	0	1	0	1	0	1	0	0	0
+PXD041874	peak_lists	2023	Exploris	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD044760	peak_lists	2023	Q Exactive	1	0	0	1	0	0	0	0	1	0	1	0	0	0
+PXD045844	peak_lists	2023	Eclipse	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD028591	peak_lists	2021	Fusion	0	1	0	1	1	0	0	0	0	0	0	0	0	0
+PXD030161	peak_lists	2021	Elite	1	0	0	0	0	0	0	0	1	0	1	0	0	0
+PXD031258	peak_lists	2022	TripleTOF	0	0	1	0	0	0	0	0	1	1	0	0	0	0
+PXD013351	peak_lists	2019	Q Exactive	1	0	0	0	0	0	1	0	0	0	0	1	0	0
+PXD028495	peak_lists	2021	Lumos	1	0	1	0	0	0	0	0	1	0	0	0	0	0
+PXD036323	peak_lists	2022	Lumos	1	0	1	0	0	0	1	0	0	0	0	0	0	0
+PXD027178	peak_lists	2021	Lumos	0	0	1	0	0	0	0	0	1	0	0	1	0	1
+PXD036556	peak_lists	2022	Velos	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD026068	peak_lists	2021	Fusion	1	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD025030	peak_lists	2021	Q Exactive	0	0	0	0	0	0	0	0	0	1	0	0	0	1
+PXD027181	peak_lists	2021	Elite	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD036285	peak_lists	2022	Velos	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD024582	peak_lists	2021	Velos	0	1	0	1	1	0	0	0	0	1	0	0	0	0
+PXD036107	peak_lists	2022	Q Exactive	0	0	0	1	0	1	0	0	0	0	1	0	0	0
+PXD033201	raw_only	2022	Velos	0	0	0	0	0	0	0	0	1	0	1	0	0	0
+PXD034712	raw_only	2022	Q Exactive	0	0	0	1	0	0	1	0	0	0	0	0	1	0
+PXD027582	raw_only	2021	Lumos	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD027750	raw_only	2021	Exploris	0	0	0	0	0	0	0	0	1	0	0	0	1	1
+PXD021529	raw_only	2020	Elite	0	0	1	1	0	0	0	0	1	0	0	0	0	0
+PXD033868	peak_lists	2022	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD020820	raw_only	2020	Fusion	0	0	1	0	0	0	1	0	1	0	0	0	0	0
+PXD035246	raw_only	2022	Lumos	0	0	0	0	0	1	0	1	1	0	0	0	0	0
+PXD030395	raw_only	2021	Exploris	1	0	0	0	0	0	1	0	0	0	1	1	0	0
+PXD027713	raw_only	2021	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD029016	peak_lists	2021	TripleTOF	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD031125	raw_only	2022	Lumos	1	0	1	0	0	0	0	0	0	0	1	0	0	0
+PXD034223	raw_only	2022	timsTOF	1	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD029927	raw_only	2021	Lumos	0	0	0	0	1	0	0	0	1	0	0	0	0	0
+PXD075982	raw_only	2026	other	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD071659	raw_only	2025	timsTOF	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD063001	raw_only	2025	timsTOF	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD065325	raw_only	2025	other	1	0	0	0	0	0	0	0	0	0	0	1	0	0
+PXD062674	raw_only	2025	Astral	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+PXD058589	raw_only	2024	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD068223	raw_only	2025	timsTOF	0	0	0	0	1	0	0	0	0	0	0	0	1	0
+PXD059387	raw_only	2025	Fusion	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD076807	peak_lists	2026	Exploris	0	0	0	0	0	0	0	1	1	0	0	0	0	0
+PXD076596	raw_only	2026	timsTOF	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+PXD045388	raw_only	2023	Q Exactive	0	0	1	0	0	0	0	0	1	1	0	0	0	0
+PXD067574	raw_only	2025	Q Exactive	0	0	1	0	0	0	1	0	1	0	1	0	0	0
+PXD064219	raw_only	2025	Lumos	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+PXD063345	peak_lists	2025	Fusion	1	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD042465	raw_only	2023	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+PXD041760	raw_only	2023	Q Exactive	0	0	0	1	0	0	0	0	0	1	0	0	0	0
+PXD037938	peak_lists	2022	Fusion	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD040769	raw_only	2023	Lumos	0	0	0	0	0	0	1	0	1	0	0	1	0	0
+PXD031930	raw_only	2022	Lumos	1	0	1	0	0	0	0	1	1	0	0	0	0	1
+PXD048465	raw_only	2024	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD042694	raw_only	2023	Exploris	0	0	0	1	0	0	0	0	0	0	0	0	1	0
+PXD050248	raw_only	2024	TripleTOF	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD041548	raw_only	2023	Lumos	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD048218	raw_only	2024	Exploris	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD043989	raw_only	2023	Q Exactive	0	0	0	1	0	1	0	0	1	0	0	0	0	0
+PXD042687	raw_only	2023	Exploris	0	0	0	1	0	0	0	0	0	0	0	0	1	0
+PXD048202	raw_only	2024	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD033205	peak_lists	2022	timsTOF	0	0	1	0	0	1	0	0	0	0	0	0	0	0
+PXD027980	raw_only	2021	Q Exactive	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+PXD042165	raw_only	2023	Q Exactive	1	0	1	0	0	0	1	0	1	0	0	0	0	0
+PXD047198	raw_only	2023	Q Exactive	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD045341	raw_only	2023	Q Exactive	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD047733	raw_only	2023	Q Exactive	0	0	0	0	0	1	0	1	1	0	1	0	0	0
+PXD036533	raw_only	2022	Fusion	1	0	0	0	1	0	0	0	1	0	0	0	1	0
+PXD045634	raw_only	2023	Exploris	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD047169	raw_only	2023	Eclipse	0	0	0	0	0	0	1	0	1	0	0	0	0	0
+PXD047171	raw_only	2023	Q Exactive	0	0	1	0	0	0	0	0	0	1	1	0	0	0
+PXD038747	raw_only	2022	timsTOF	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+PXD040963	raw_only	2023	Q Exactive	0	0	0	0	0	0	0	0	0	1	0	0	0	1
+PXD048450	raw_only	2024	Q Exactive	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+PXD048880	raw_only	2024	Fusion	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD040575	raw_only	2023	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+PXD012906	peak_lists	2019	Fusion	1	0	1	0	0	0	1	0	0	0	0	0	0	0
+PXD007043	raw_only	2017	Velos	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+PXD006898	peak_lists	2017	Q Exactive	0	0	1	0	0	0	0	0	1	0	0	0	0	0
+PXD007150	raw_only	2017	Q Exactive	0	1	0	0	0	0	0	0	1	0	0	0	0	0
+PXD007163	raw_only	2017	Elite	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD010175	raw_only	2018	Q Exactive	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+PXD007687	raw_only	2017	Lumos	0	0	1	0	0	0	0	0	0	0	0	0	1	1
+PXD007647	raw_only	2017	Fusion	0	0	0	0	0	0	1	0	0	0	1	0	0	1
+PXD007193	raw_only	2017	Velos	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD007101	raw_only	2017	Lumos	0	0	0	1	0	0	0	0	1	0	0	0	1	0
+PXD007167	raw_only	2017	Elite	1	1	1	0	0	0	0	0	0	1	0	0	0	1
+PXD007184	raw_only	2017	Q Exactive	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+PXD006896	raw_only	2017	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD007185	raw_only	2017	Elite	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+PXD028485	peak_lists	2021	Lumos	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+PXD071560	raw_only	2025	Exploris	0	1	0	0	0	0	0	0	0	0	1	1	0	1
+PXD080731	raw_only	2026	Q Exactive	0	0	0	0	0	0	1	1	0	0	0	0	0	0
+PXD068869	raw_only	2025	Exploris	0	1	0	1	0	0	0	1	0	0	0	0	0	0
+PXD062031	raw_only	2025	Lumos	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD074418	raw_only	2026	Q Exactive	0	0	0	1	1	0	0	0	0	0	0	0	1	1
+PXD079796	raw_only	2026	Elite	0	0	0	1	0	0	0	1	1	0	0	0	0	0
+PXD078497	raw_only	2026	Astral	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD082855	raw_only	2026	other	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD082486	raw_only	2026	Elite	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD075006	raw_only	2026	Astral	1	0	0	0	0	0	0	0	0	0	1	0	1	1
+PXD078004	raw_only	2026	Astral	0	1	0	1	1	0	0	0	0	1	0	0	0	0
+PXD068583	raw_only	2025	Astral	1	0	1	0	0	0	0	1	0	0	0	0	0	0
+PXD067990	raw_only	2025	Q Exactive	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+PXD074325	raw_only	2026	Astral	0	0	1	0	1	1	0	1	0	0	0	0	0	0
+PXD052504	raw_only	2024	TripleTOF	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD046603	raw_only	2023	Q Exactive	1	0	1	0	0	0	0	0	0	0	1	0	0	0
+PXD053544	raw_only	2024	Lumos	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+PXD052691	raw_only	2024	TripleTOF	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD053143	raw_only	2024	Fusion	0	0	1	1	0	0	0	0	0	1	0	0	0	0
+PXD030142	peak_lists	2021	Fusion	0	0	1	0	0	0	0	0	1	0	0	0	0	0
+PXD046782	raw_only	2023	Exploris	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+PXD053844	raw_only	2024	Exploris	0	0	0	1	0	0	0	0	0	0	0	0	1	0
+PXD048754	raw_only	2024	timsTOF	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD055934	raw_only	2024	Fusion	0	0	0	1	0	0	0	1	0	0	0	1	0	0
+PXD053165	peak_lists	2024	Exploris	1	0	1	0	0	0	0	0	0	0	0	1	0	1
+PXD055090	raw_only	2024	Exploris	1	0	0	0	0	0	0	0	1	0	1	0	0	0
+PXD051225	raw_only	2024	other	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+PXD053506	raw_only	2024	Q Exactive	0	0	0	1	1	0	0	0	0	1	0	0	0	0
+PXD048838	raw_only	2024	Q Exactive	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD047543	raw_only	2023	Q Exactive	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+PXD048575	raw_only	2024	TripleTOF	0	0	0	0	1	0	0	0	0	0	1	0	0	0
+PXD048117	raw_only	2023	Exploris	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD047752	raw_only	2023	Q Exactive	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD046213	raw_only	2023	timsTOF	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+PXD047149	raw_only	2023	Lumos	0	1	1	0	0	0	1	0	0	0	0	0	0	0
+PXD045547	raw_only	2023	Q Exactive	0	0	1	0	0	0	0	0	0	0	1	1	0	0
+PXD047753	raw_only	2023	Q Exactive	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD049043	raw_only	2024	Lumos	0	0	0	0	0	0	0	0	0	1	0	0	1	0
+PXD050080	raw_only	2024	Fusion	0	0	0	0	0	0	1	0	1	0	0	0	0	0
+PXD046055	raw_only	2023	Fusion	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+PXD045164	raw_only	2023	Q Exactive	0	0	0	0	0	0	0	0	1	0	1	0	0	0
+PXD017292	raw_only	2020	Q Exactive	0	0	0	0	0	0	0	1	0	1	0	0	0	0
+PXD014991	raw_only	2020	Fusion	0	0	0	0	0	0	1	1	0	0	0	0	0	0
+PXD021035	raw_only	2020	Q Exactive	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD020133	peak_lists	2020	Q Exactive	1	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD018910	raw_only	2020	other	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+PXD021036	raw_only	2020	Q Exactive	0	0	0	0	0	0	0	0	0	0	1	1	0	1
+PXD020986	raw_only	2020	Elite	1	0	0	1	0	0	0	0	0	1	0	0	0	0
+PXD020442	raw_only	2020	Lumos	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+PXD021635	peak_lists	2020	Fusion	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD020735	raw_only	2020	Q Exactive	0	0	0	0	0	0	0	0	1	0	1	0	0	0
+PXD006464	raw_only	2017	TripleTOF	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD003400	raw_only	2016	Q Exactive	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+PXD014180	raw_only	2019	TripleTOF	0	1	0	1	0	0	0	0	0	1	0	0	0	0
+PXD057637	raw_only	2024	Lumos	1	0	0	0	1	0	0	0	0	0	1	0	0	0
+PXD080067	raw_only	2026	timsTOF	0	0	0	0	0	0	0	0	1	0	1	0	0	0
+PXD045474	raw_only	2023	Q Exactive	0	0	1	0	0	0	0	1	1	0	1	0	0	0
+PXD069185	raw_only	2025	Q Exactive	0	0	0	0	1	1	0	0	0	1	0	0	1	0
+PXD080456	raw_only	2026	Q Exactive	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD069507	raw_only	2025	Exploris	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD066668	raw_only	2025	Eclipse	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD065526	raw_only	2025	Exploris	0	0	1	1	1	0	0	0	0	1	0	0	0	0
+PXD081527	raw_only	2026	Q Exactive	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+PXD065565	raw_only	2025	timsTOF	0	0	0	0	0	0	0	1	1	0	1	0	0	0
+PXD074479	raw_only	2026	Q Exactive	0	0	1	0	0	0	0	0	0	0	0	1	0	0
+PXD082028	raw_only	2026	timsTOF	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+PXD081930	raw_only	2026	Ascend	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+PXD078059	raw_only	2026	Astral	0	0	1	0	0	0	0	0	1	0	0	1	0	0
+PXD074580	raw_only	2026	Exploris	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+PXD010335	raw_only	2019	Lumos	0	1	0	0	0	0	1	0	0	0	0	0	0	0
+PXD016020	raw_only	2019	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+PXD006812	raw_only	2019	Q Exactive	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD015465	raw_only	2019	Q Exactive	0	0	0	0	0	0	1	0	0	0	1	0	0	0
+PXD014956	raw_only	2019	Q Exactive	0	0	1	0	0	0	0	1	0	0	0	0	0	0
+PXD015033	peak_lists	2019	TripleTOF	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD014750	raw_only	2019	Fusion	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+PXD015216	raw_only	2019	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+PXD011925	raw_only	2019	Velos	1	0	0	1	1	0	0	1	0	0	0	0	1	1
+PXD015442	raw_only	2019	Lumos	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD016110	raw_only	2019	Q Exactive	0	0	0	1	0	0	0	0	0	1	0	1	0	0
+PXD015151	raw_only	2019	Q Exactive	0	0	1	0	1	0	0	0	1	0	0	0	0	0
+PXD015487	peak_lists	2019	TripleTOF	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+PXD013893	raw_only	2019	Velos	1	0	0	0	0	0	0	1	0	0	0	1	0	0
+PXD006607	raw_only	2020	Fusion	1	1	1	0	0	0	0	0	1	0	0	0	0	0
+PXD014754	peak_lists	2020	TripleTOF	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD011163	raw_only	2018	Fusion	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+PXD015082	raw_only	2019	Lumos	0	0	0	1	0	0	0	0	0	0	0	1	0	0
+PXD012617	raw_only	2020	Q Exactive	1	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD013615	raw_only	2019	Q Exactive	1	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD015912	raw_only	2020	TripleTOF	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD012026	raw_only	2018	Q Exactive	1	0	0	1	0	0	1	0	0	1	0	0	0	0
+PXD017821	raw_only	2020	Q Exactive	0	0	1	0	0	0	0	0	1	0	0	0	0	0
+PXD023943	raw_only	2021	Lumos	0	0	0	0	0	0	0	0	0	0	1	1	0	1
+PXD013642	raw_only	2019	Q Exactive	1	1	0	0	0	0	0	0	1	0	0	0	0	0
+PXD031556	raw_only	2022	Q Exactive	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD029642	raw_only	2021	Q Exactive	0	0	0	0	1	0	0	0	1	0	0	0	1	0
+PXD024737	peak_lists	2021	Lumos	1	0	0	0	0	0	0	0	0	0	1	1	0	0
+PXD018528	raw_only	2020	Q Exactive	0	0	0	0	0	0	1	0	0	0	0	0	0	1
+PXD030325	peak_lists	2021	Fusion	0	0	0	0	0	0	0	1	1	0	0	0	0	0
+PXD031529	raw_only	2022	Q Exactive	1	0	0	0	0	0	0	0	0	0	1	1	0	0
+PXD026905	raw_only	2021	Velos	0	0	0	0	0	0	1	1	1	0	0	0	0	0
+PXD023135	raw_only	2020	other	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+PXD031147	raw_only	2022	Fusion	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+PXD027898	raw_only	2021	Lumos	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+PXD030837	raw_only	2022	Q Exactive	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD069669	peak_lists	2025	Velos	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+PXD067360	peak_lists	2025	Q Exactive	0	0	1	0	0	0	0	0	1	0	0	0	0	0
+PXD055236	peak_lists	2024	Q Exactive	0	1	0	0	1	0	0	0	0	1	0	0	0	0
+PXD066081	peak_lists	2025	Q Exactive	0	0	0	0	0	0	1	0	1	0	1	0	0	0
+PXD068489	raw_only	2025	Q Exactive	1	0	0	0	1	0	0	0	0	0	0	0	0	0
+PXD064566	peak_lists	2025	Lumos	0	0	0	1	0	0	1	0	0	0	0	0	0	0
+PXD059724	peak_lists	2025	Exploris	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD065210	peak_lists	2025	Lumos	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+PXD065869	peak_lists	2025	Eclipse	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+PXD031805	peak_lists	2022	Q Exactive	0	0	0	1	0	0	0	0	0	1	0	0	0	0
+PXD062822	raw_only	2025	Exploris	0	0	1	0	0	0	0	0	1	0	0	0	0	0
+PXD070546	raw_only	2025	Lumos	1	0	1	0	0	0	1	0	0	0	1	0	0	0
+PXD071790	peak_lists	2025	Fusion	1	1	1	0	0	0	0	0	1	0	0	1	0	0
+PXD054252	peak_lists	2024	Fusion	1	0	0	0	0	0	0	0	0	0	0	0	0	1
+PXD047174	peak_lists	2023	Q Exactive	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+PXD041587	peak_lists	2023	Lumos	0	1	0	0	0	0	1	0	0	0	0	0	0	0
+PXD035951	peak_lists	2022	Q Exactive	0	0	0	0	0	0	0	0	1	0	0	0	1	0
+PXD043653	peak_lists	2023	Q Exactive	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD048763	raw_only	2024	Q Exactive	1	0	0	0	0	0	0	0	0	1	0	0	0	1
+PXD043297	peak_lists	2023	Q Exactive	1	0	0	0	0	0	0	0	1	1	1	0	0	0
+PXD050376	peak_lists	2024	Lumos	0	0	0	1	0	0	0	1	1	0	1	0	0	0
+PXD044632	peak_lists	2023	Fusion	1	0	1	0	0	0	0	0	0	0	0	0	0	0
+PXD044764	peak_lists	2023	Elite	0	0	0	1	0	0	0	1	0	1	0	0	0	0
+PXD045260	peak_lists	2023	TripleTOF	0	1	0	0	1	0	0	0	0	0	0	0	0	1
+PXD028789	peak_lists	2022	Q Exactive	1	0	1	0	0	0	0	0	1	0	0	0	0	0
+PXD050765	peak_lists	2024	Velos	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD051777	peak_lists	2024	Q Exactive	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD044755	peak_lists	2023	Q Exactive	0	0	0	0	0	0	0	0	0	1	0	0	0	1
+PXD022720	peak_lists	2020	Q Exactive	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+PXD023866	peak_lists	2021	other	0	0	0	0	0	0	0	0	1	0	1	0	0	0
+PXD027728	peak_lists	2021	Q Exactive	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+PXD028484	peak_lists	2021	Q Exactive	0	0	0	1	0	0	0	0	0	0	0	1	0	0
+PXD022351	peak_lists	2020	Lumos	1	0	0	0	1	0	1	0	1	0	0	0	0	0
+PXD022826	peak_lists	2020	Q Exactive	0	0	0	0	0	0	1	0	1	0	0	0	0	0
+PXD027076	peak_lists	2021	Fusion	0	1	0	1	0	0	1	1	0	1	0	0	0	1
+PXD026815	peak_lists	2021	other	0	1	1	0	0	1	0	0	0	0	0	0	0	0
+PXD024549	peak_lists	2021	TripleTOF	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD022354	peak_lists	2020	Q Exactive	1	0	0	0	0	0	0	1	0	0	1	0	0	0
+PXD021504	peak_lists	2020	Lumos	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD027454	peak_lists	2021	Lumos	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD026791	peak_lists	2021	Lumos	1	0	0	0	0	0	0	0	0	0	0	1	1	0
+PXD022786	peak_lists	2020	Velos	0	0	0	0	0	0	0	1	0	0	1	0	0	1
+PXD018964	raw_only	2020	Velos	0	1	0	0	0	0	0	1	1	0	0	0	0	0
+PXD020395	raw_only	2020	Q Exactive	1	0	0	0	0	0	0	0	1	1	1	0	0	0
+PXD019719	raw_only	2020	TripleTOF	0	0	1	0	0	1	0	0	1	0	1	0	0	0
+PXD025936	peak_lists	2021	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD005657	raw_only	2017	Lumos	0	0	0	1	0	1	0	0	0	0	0	0	0	0
+PXD022525	raw_only	2020	Fusion	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD024984	raw_only	2021	Q Exactive	1	0	1	0	1	0	0	0	1	0	0	0	0	0
+PXD020586	raw_only	2021	Exploris	0	1	0	0	0	0	1	0	0	0	0	0	0	0
+PXD022202	peak_lists	2020	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	1	0	1
+PXD024340	raw_only	2021	Q Exactive	0	0	0	0	0	0	0	1	0	0	1	0	0	0
+PXD022474	raw_only	2020	Fusion	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+PXD024114	raw_only	2021	Fusion	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD022996	raw_only	2020	Lumos	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD021736	raw_only	2020	Q Exactive	0	0	1	0	0	0	1	1	0	0	0	0	0	0
+PXD037504	raw_only	2022	Fusion	0	0	1	0	0	0	1	0	0	0	1	0	0	0
+PXD040715	raw_only	2023	Exploris	0	0	1	0	0	0	0	0	0	0	0	0	0	1
+PXD041952	raw_only	2023	Eclipse	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+PXD040718	raw_only	2023	timsTOF	0	0	0	0	0	0	0	1	0	0	0	1	0	0
+PXD035397	raw_only	2022	other	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD039697	raw_only	2023	Lumos	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD041938	raw_only	2023	Q Exactive	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD029312	raw_only	2021	Q Exactive	0	0	1	0	0	0	1	0	1	0	0	0	0	0
+PXD034430	raw_only	2022	Q Exactive	0	0	1	0	1	0	1	0	0	0	0	0	0	0
+PXD040331	peak_lists	2023	Q Exactive	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+PXD040087	raw_only	2023	Lumos	0	0	0	0	1	1	0	0	0	0	0	0	1	0
+PXD020352	raw_only	2020	Q Exactive	0	0	0	0	0	0	1	1	0	0	0	0	0	0
+PXD042278	peak_lists	2023	Q Exactive	1	0	0	0	0	0	0	1	0	0	1	0	0	0
+PXD039991	raw_only	2023	Lumos	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+PXD020131	raw_only	2020	Q Exactive	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD024068	raw_only	2021	Fusion	0	0	0	0	0	0	0	1	0	0	0	0	0	1
+PXD020303	raw_only	2020	Q Exactive	0	0	1	0	0	0	0	0	0	0	1	0	0	0
+PXD030387	raw_only	2021	Q Exactive	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+PXD028678	raw_only	2021	Q Exactive	1	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD026802	raw_only	2021	Q Exactive	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD033107	raw_only	2022	other	0	0	0	1	0	1	0	0	0	0	0	0	1	0
+PXD029832	raw_only	2021	Fusion	1	0	0	0	0	0	0	0	0	0	0	0	0	1
+PXD035265	raw_only	2022	Lumos	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD027142	raw_only	2021	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD024555	raw_only	2021	other	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+PXD030164	raw_only	2022	Q Exactive	0	1	1	0	1	0	1	1	0	0	0	0	1	0
+PXD014368	raw_only	2020	Velos	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+PXD034158	raw_only	2022	Q Exactive	0	1	0	0	0	0	0	0	1	0	1	0	0	0
+PXD026606	raw_only	2021	Q Exactive	0	0	1	0	0	1	0	0	0	1	0	0	0	1
+PXD031224	raw_only	2022	timsTOF	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD010997	raw_only	2018	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD027404	raw_only	2021	Q Exactive	0	0	1	0	0	0	0	0	1	0	0	0	0	0
+PXD022995	raw_only	2021	Velos	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD018304	raw_only	2020	Q Exactive	1	0	0	0	0	0	0	1	1	0	0	0	0	0
+PXD026624	raw_only	2021	Q Exactive	0	0	1	0	0	0	0	1	1	0	0	1	1	0
+PXD018655	raw_only	2020	Q Exactive	0	0	1	0	0	0	0	0	1	1	1	0	0	0
+PXD022875	raw_only	2020	Q Exactive	0	0	1	0	0	0	0	0	0	0	0	0	1	0
+PXD024822	raw_only	2021	Lumos	0	0	0	0	0	1	0	0	0	0	0	0	1	0
+PXD018377	raw_only	2020	Elite	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD006671	raw_only	2017	Elite	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD007814	raw_only	2017	Fusion	1	0	0	0	0	0	1	0	1	0	0	0	0	0
+PXD066781	raw_only	2025	Lumos	0	0	1	0	0	0	0	0	1	0	1	0	0	0
+PXD068450	raw_only	2025	Q Exactive	0	0	1	0	0	0	0	0	1	0	0	0	1	0
+PXD078118	raw_only	2026	timsTOF	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+PXD086085	raw_only	2026	Lumos	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+PXD070888	raw_only	2025	other	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD076417	raw_only	2026	Q Exactive	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+PXD064114	raw_only	2025	Eclipse	0	0	1	0	0	0	1	0	0	0	0	0	0	0
+PXD085415	raw_only	2026	Fusion	1	0	0	0	0	0	1	0	0	0	0	0	0	0
+PXD079294	raw_only	2026	Lumos	0	0	0	0	1	0	0	0	0	0	0	0	0	1
+PXD024429	raw_only	2021	Q Exactive	0	0	0	1	0	0	0	0	0	0	0	0	1	0
+PXD080574	raw_only	2026	Exploris	0	0	1	0	0	0	0	0	1	0	1	0	0	0
+PXD051471	raw_only	2024	TripleTOF	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD084581	raw_only	2026	Astral	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD066423	raw_only	2025	Eclipse	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD067794	raw_only	2025	timsTOF	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD009781	raw_only	2018	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD009757	raw_only	2018	Q Exactive	0	0	0	0	0	0	1	0	1	1	0	0	0	0
+PXD009784	raw_only	2018	Q Exactive	0	0	0	0	0	0	0	1	0	1	0	0	0	0
+PXD009766	raw_only	2018	Q Exactive	0	0	1	0	0	0	0	0	1	0	1	0	0	0
+PXD009643	raw_only	2018	Q Exactive	0	0	0	0	1	0	0	0	0	0	0	0	0	1
+PXD009740	raw_only	2018	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+PXD009793	raw_only	2018	Fusion	0	0	0	1	0	0	0	0	0	1	0	0	0	0
+PXD009732	raw_only	2018	other	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+PXD009644	raw_only	2018	Q Exactive	0	0	1	0	0	0	1	0	0	0	0	0	0	0
+PXD009745	raw_only	2018	Fusion	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD009747	peak_lists	2018	Q Exactive	0	0	0	0	0	0	0	1	0	1	0	0	0	0
+PXD009686	raw_only	2018	TripleTOF	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD009759	raw_only	2018	Q Exactive	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD009731	raw_only	2018	Q Exactive	0	0	0	1	0	0	0	0	0	0	0	1	0	0
+PXD026645	peak_lists	2021	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD026374	raw_only	2021	Exploris	1	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD025078	raw_only	2021	Lumos	0	0	0	0	0	0	0	0	0	0	1	1	0	0
+PXD024349	raw_only	2021	Q Exactive	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+PXD018311	raw_only	2021	Q Exactive	0	0	1	0	0	0	0	0	1	0	0	0	0	0
+PXD026635	peak_lists	2021	Q Exactive	0	0	0	1	0	0	0	0	0	1	0	0	0	0
+PXD026246	raw_only	2021	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD026768	raw_only	2021	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD027301	raw_only	2021	Q Exactive	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+PXD017165	raw_only	2020	other	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD025849	raw_only	2021	Exploris	0	0	1	0	0	0	0	0	0	1	0	0	0	0
+PXD027981	peak_lists	2021	Q Exactive	1	0	1	0	0	0	1	0	1	0	0	0	0	0
+PXD019936	raw_only	2021	Fusion	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD028550	raw_only	2021	Q Exactive	0	0	0	0	0	0	0	1	1	0	0	0	0	0
+PXD027368	raw_only	2021	Q Exactive	0	0	1	1	1	1	0	0	0	0	0	0	0	0
+PXD036213	raw_only	2022	Lumos	0	0	1	0	0	0	1	0	0	0	0	1	0	0
+PXD044853	raw_only	2023	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD048277	raw_only	2024	timsTOF	1	1	1	0	0	0	0	0	0	0	0	0	0	0
+PXD051384	raw_only	2024	Lumos	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD050320	raw_only	2024	Q Exactive	1	0	0	0	1	0	1	0	0	0	1	0	0	0
+PXD030471	raw_only	2021	Fusion	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD037149	raw_only	2022	Q Exactive	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+PXD045382	peak_lists	2023	TripleTOF	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+PXD051600	peak_lists	2024	other	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD047343	raw_only	2023	Q Exactive	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD036263	raw_only	2022	Fusion	0	0	0	0	0	0	0	0	1	0	1	1	0	0
+PXD044725	raw_only	2023	Exploris	1	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD042085	raw_only	2023	Q Exactive	0	0	0	0	0	0	0	1	0	1	1	0	1	0
+PXD050097	peak_lists	2024	Lumos	1	0	0	0	0	1	0	0	0	0	0	0	0	0
+PXD037425	raw_only	2022	Lumos	0	0	1	0	1	0	0	0	0	0	0	0	0	0
+PXD029851	peak_lists	2021	Velos	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD012981	peak_lists	2019	timsTOF	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD027547	peak_lists	2021	Elite	0	0	1	0	0	0	1	0	0	0	0	0	0	0
+PXD025822	peak_lists	2021	Eclipse	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD030170	peak_lists	2021	Fusion	1	0	0	1	0	0	0	0	0	1	0	0	1	0
+PXD027096	peak_lists	2021	Lumos	1	0	0	0	0	1	0	1	0	0	0	0	0	0
+PXD028322	peak_lists	2021	Q Exactive	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+PXD021996	peak_lists	2020	Velos	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD030042	peak_lists	2021	Q Exactive	0	0	1	1	1	0	0	0	0	0	0	0	0	1
+PXD028582	peak_lists	2021	Q Exactive	1	0	0	0	0	0	0	1	0	0	0	0	1	0
+PXD029101	peak_lists	2021	Lumos	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+PXD033451	peak_lists	2022	Lumos	1	0	1	1	0	1	0	0	0	0	1	0	1	0
+PXD029232	peak_lists	2021	Exploris	0	1	0	0	0	0	0	1	0	0	1	1	1	0
+PXD029654	raw_only	2021	timsTOF	0	0	1	0	0	0	0	0	1	0	0	0	0	0
+PXD026104	raw_only	2021	Q Exactive	0	0	1	0	1	0	1	0	1	0	0	0	0	0
+PXD025969	raw_only	2021	Q Exactive	1	0	1	0	0	0	1	0	0	0	0	0	0	0
+PXD026044	peak_lists	2021	Fusion	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD026100	raw_only	2021	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD026078	raw_only	2021	Q Exactive	0	0	0	0	0	0	0	1	1	0	1	1	0	0
+PXD025453	raw_only	2021	TripleTOF	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD025615	raw_only	2021	Elite	0	0	0	0	0	0	0	0	1	0	0	0	1	0
+PXD026064	raw_only	2021	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD025778	raw_only	2021	Velos	1	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD025360	raw_only	2021	Velos	0	0	0	0	0	0	0	0	1	1	0	0	0	0
+PXD025320	peak_lists	2021	TripleTOF	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+PXD008888	raw_only	2019	Q Exactive	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+PXD007587	raw_only	2017	Elite	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+PXD006285	peak_lists	2017	TripleTOF	1	0	0	0	0	0	0	0	0	0	0	0	0	1
+PXD006226	raw_only	2017	Fusion	0	0	0	1	1	0	0	0	0	0	0	0	0	0
+PXD008899	peak_lists	2018	Q Exactive	1	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD012088	raw_only	2018	Velos	1	0	0	0	0	0	0	0	0	1	0	1	0	0
+PXD007552	peak_lists	2017	Q Exactive	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD007584	raw_only	2017	Fusion	0	0	0	1	0	0	0	0	0	1	0	0	0	0
+PXD012086	raw_only	2018	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD006274	raw_only	2018	Q Exactive	0	0	0	0	0	1	0	0	0	0	0	1	0	1
+PXD006251	raw_only	2017	Elite	0	0	0	0	0	0	0	0	0	0	0	1	1	0
+PXD007551	raw_only	2017	Velos	0	0	0	0	1	0	0	1	0	0	1	0	0	1
+PXD069962	raw_only	2025	Exploris	0	0	1	0	1	1	0	0	0	1	0	0	0	0
+PXD083329	raw_only	2026	Q Exactive	0	0	0	0	0	0	0	0	0	1	0	0	0	1
+PXD075985	raw_only	2026	Q Exactive	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD075566	raw_only	2026	Q Exactive	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+PXD069273	raw_only	2025	Q Exactive	0	0	0	0	0	0	0	0	0	0	1	0	0	1
+PXD056899	raw_only	2024	Q Exactive	1	1	1	0	0	0	0	0	0	0	0	0	0	0
+PXD062727	raw_only	2025	Q Exactive	1	0	1	0	0	0	0	1	1	0	1	0	0	0
+PXD076788	raw_only	2026	TripleTOF	1	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD076161	raw_only	2026	other	1	0	0	1	1	0	0	0	0	0	0	0	0	0
+PXD073992	raw_only	2026	Exploris	0	0	1	1	0	0	0	0	0	0	0	0	1	0
+PXD075370	raw_only	2026	Q Exactive	0	0	0	0	0	0	0	1	0	0	1	1	0	0
+PXD073928	raw_only	2026	Q Exactive	0	0	1	0	0	0	0	0	1	0	1	1	0	0
+PXD034247	raw_only	2022	Fusion	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD042118	peak_lists	2023	Lumos	0	0	0	0	0	1	0	0	0	0	0	0	0	1
+PXD043447	raw_only	2023	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD043490	peak_lists	2023	Fusion	1	0	0	0	0	0	0	0	0	0	0	0	1	0
+PXD044175	raw_only	2023	Lumos	0	0	0	0	0	0	1	0	0	0	1	0	0	0
+PXD045653	raw_only	2023	Lumos	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD040991	raw_only	2023	Lumos	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD038121	raw_only	2022	Eclipse	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+PXD043165	raw_only	2023	Lumos	0	0	0	0	1	0	0	0	1	0	0	0	0	0
+PXD043171	raw_only	2023	Lumos	0	0	1	0	0	0	1	1	0	0	0	0	0	0
+PXD045031	raw_only	2023	Exploris	0	0	0	0	0	0	0	0	0	0	1	1	0	0
+PXD047761	raw_only	2023	Q Exactive	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+PXD044391	raw_only	2023	Eclipse	0	0	0	0	0	0	1	0	0	0	1	0	0	0
+PXD039548	raw_only	2023	Lumos	1	0	1	0	0	0	1	0	1	0	0	0	0	0
+PXD047447	raw_only	2023	timsTOF	1	0	0	0	0	0	0	0	0	0	0	0	0	1
+PXD051013	peak_lists	2024	timsTOF	1	0	0	0	0	0	0	1	0	0	1	0	0	1
+PXD056412	raw_only	2024	Exploris	1	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD057988	raw_only	2024	timsTOF	1	0	0	0	0	0	0	0	0	1	1	1	0	0
+PXD063156	raw_only	2025	Exploris	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+PXD019357	raw_only	2020	TripleTOF	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD061770	raw_only	2025	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+PXD054551	peak_lists	2024	Lumos	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+PXD055521	raw_only	2024	Exploris	1	1	1	0	0	0	1	0	1	0	0	1	0	0
+PXD050220	raw_only	2024	timsTOF	0	0	1	0	0	0	0	1	0	0	0	0	0	0
+PXD056251	raw_only	2024	Exploris	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD064272	peak_lists	2025	timsTOF	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD052746	peak_lists	2024	Q Exactive	0	0	1	1	0	0	0	1	1	0	0	0	0	0
+PXD055858	raw_only	2024	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD058038	raw_only	2024	timsTOF	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD062939	peak_lists	2025	Fusion	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD062078	raw_only	2025	timsTOF	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+PXD068388	peak_lists	2025	Eclipse	1	0	0	0	0	0	0	0	0	0	0	1	0	0
+PXD054435	raw_only	2024	timsTOF	0	0	0	0	0	0	0	0	1	1	0	0	0	0
+PXD068665	raw_only	2025	Lumos	0	0	0	1	0	0	0	0	0	1	0	0	0	1
+PXD069512	raw_only	2025	Ascend	0	0	0	0	0	1	0	0	0	0	1	0	0	0
+PXD064913	raw_only	2025	Exploris	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+PXD068739	raw_only	2025	Lumos	0	0	0	1	0	0	0	0	0	1	0	0	0	1
+PXD031055	raw_only	2022	Q Exactive	1	1	1	0	1	0	0	1	1	0	0	0	0	1
+PXD061707	raw_only	2025	Fusion	0	0	0	0	0	0	1	0	1	1	1	0	0	0
+PXD041159	raw_only	2023	Q Exactive	0	1	1	1	0	0	0	0	1	0	1	0	0	0
+PXD056016	raw_only	2024	Exploris	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD063677	raw_only	2025	timsTOF	0	0	0	0	0	1	0	0	1	0	0	0	1	0
+PXD058726	raw_only	2024	Velos	0	0	1	0	0	0	0	0	1	0	0	0	0	0
+PXD062085	raw_only	2025	Exploris	0	0	0	0	0	0	1	1	0	0	1	0	0	0
+PXD061609	raw_only	2025	Eclipse	1	0	0	0	0	0	1	0	1	0	0	0	0	0
+PXD011865	raw_only	2018	Elite	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+PXD011835	raw_only	2018	Velos	0	0	1	0	0	0	0	0	0	1	0	0	0	0
+PXD011687	raw_only	2018	other	0	0	0	0	0	0	0	0	1	1	0	0	0	0
+PXD011933	raw_only	2018	Fusion	0	0	0	0	0	0	1	0	0	0	1	0	0	0
+PXD011909	raw_only	2018	Elite	1	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD011896	peak_lists	2018	Fusion	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+PXD011685	peak_lists	2018	Q Exactive	0	0	0	0	0	0	0	0	1	1	0	0	0	0
+PXD011781	raw_only	2018	other	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD011718	raw_only	2018	Q Exactive	0	0	1	0	1	0	1	0	0	0	0	0	0	0
+PXD011677	raw_only	2018	Lumos	1	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD011956	raw_only	2018	Fusion	0	0	0	1	0	1	0	1	0	0	0	0	0	0
+PXD011708	raw_only	2018	Q Exactive	0	0	0	0	0	0	0	0	1	0	1	0	0	0
+PXD011684	peak_lists	2018	Q Exactive	0	0	0	0	0	0	0	0	1	1	0	0	0	0
+PXD011850	peak_lists	2018	Lumos	1	0	0	1	1	0	0	0	0	1	0	0	0	0
+PXD044974	raw_only	2023	Q Exactive	0	0	0	1	0	0	0	0	0	1	0	0	0	0
+PXD044287	raw_only	2023	Lumos	0	0	0	0	0	0	1	0	1	0	1	0	0	0
+PXD044922	raw_only	2023	Lumos	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+PXD048906	raw_only	2024	Lumos	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+PXD038198	raw_only	2022	Q Exactive	0	0	0	0	0	0	0	1	0	0	1	0	0	0
+PXD055119	raw_only	2024	Fusion	0	0	1	0	0	0	1	0	0	0	0	0	0	0
+PXD054197	raw_only	2024	Eclipse	0	0	0	0	0	0	0	1	0	0	0	1	0	0
+PXD045019	raw_only	2023	Q Exactive	0	0	1	1	0	0	0	0	0	1	0	0	0	0
+PXD053722	raw_only	2024	timsTOF	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD055235	raw_only	2024	timsTOF	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+PXD054066	raw_only	2024	Astral	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+PXD039831	raw_only	2023	Exploris	1	0	0	0	0	0	0	0	0	0	1	0	0	1
+PXD052184	raw_only	2024	Eclipse	0	0	1	0	0	0	0	1	0	0	0	0	0	0
+PXD047673	raw_only	2023	timsTOF	0	0	0	0	0	0	0	0	1	0	0	1	0	0
+PXD039680	raw_only	2023	Q Exactive	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+PXD038420	peak_lists	2022	Q Exactive	0	0	0	0	0	0	1	0	0	1	0	0	0	0
+PXD039755	raw_only	2023	Q Exactive	0	0	0	0	0	0	0	0	1	1	0	0	0	0
+PXD029300	raw_only	2023	Fusion	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD040622	raw_only	2023	Q Exactive	0	0	1	0	0	0	1	1	0	0	0	0	0	0
+PXD038490	raw_only	2022	Eclipse	1	0	0	0	0	0	0	0	1	0	0	1	0	0
+PXD039570	raw_only	2023	Lumos	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+PXD038716	raw_only	2022	TripleTOF	0	0	0	0	1	0	0	0	0	0	0	0	0	1
+PXD039332	raw_only	2023	Exploris	0	1	0	1	0	0	0	0	0	0	0	0	0	0
+PXD039335	raw_only	2023	Velos	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+PXD037937	raw_only	2022	timsTOF	1	0	0	0	0	0	0	0	0	0	0	0	0	1
+PXD040761	raw_only	2023	Q Exactive	0	0	0	0	0	0	0	0	1	0	0	0	0	0

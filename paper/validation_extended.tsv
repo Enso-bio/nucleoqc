@@ -1,0 +1,32 @@
+group	project	file	proteome	note	n_ms2	n_nucleobase_spectra	nb10	id_rate_all	id_rate_nucleobase	id_rate_expected_nucleobase	estimated_loss	measured_loss
+contaminated	PXD035527	0__1hour_PP3_r1.raw.-1.mgf	human	phosphoproteome	8473	7827	0.9238	0.1538	0.1372	0.4794	0.5291	0.6727
+contaminated	PXD058484	LN231114_pAVIC_MLB2_trypsin_Nterm_bRP5.mzML	human	infected cells (astrovirus)	789	553	0.7009	0.0101	0.0090	0.0511	0.3534	0.7439
+contaminated	PXD068482	QE1_SMMG_EXP03_PP_Sample_05.raw.-1.mgf	human	phosphoproteome	3788	2475	0.6534	0.4052	0.3988	0.5004	0.3052	0.1408
+contaminated	PXD073003	FemaleHousefly_Phos.mzML	house_fly	phosphoproteome	1281	582	0.4543	0.0141	0.0137	0.0609	0.2360	0.6038
+contaminated	PXD042938	LFQ_CD19_6vs6_area_ttest.mzML	human		1929	423	0.2193	0.1877	0.1513	0.2948	0.0976	0.1436
+contaminated	PXD035007	XWU_MCF7_EDX_TMTPro_pST_041420_F01-12.mzML	human	TMTpro phosphoproteome	1914	407	0.2126	0.0000	0.0000	0.0000	0.0775	0.0000
+contaminated	PXD044361	PKGAID_phosphoproteome_V2_multiconsensus.mzML	toxoplasma_me49	phosphoproteome	1793	273	0.1523	0.1199	0.0952	0.1197	0.0664	0.0302
+contaminated	PXD042268	TP_TMT6_Gel.mzML	mouse_sp		1920	251	0.1307	0.0016	0.0000	0.0015	0.0647	0.1097
+contaminated	PXD053240	20211013_SARS_Cells_TMT16plex_Fosfo_Time_ttest_Allcomparison.mzML	human	TMT phosphoproteome	1220	159	0.1303	0.6180	0.4780	0.7346	0.0451	0.0513
+contaminated	PXD063068	OE_20240808_02_070324-WT1-2v2_Ubenrichpeaklist.mzML	human	ubiquitin enrichment	1998	237	0.1186	0.0105	0.0000	0.0002	0.0697	0.0028
+contaminated	PXD042640	JCP_051422_AC4_pY_PDX11_erl_ag_18plex.mzML	human	pY TMTpro	1477	106	0.0718	0.8930	0.8113	0.9423	0.0250	0.0104
+contaminated	PXD053061	Adipocytes_Phospho_HpHF02.mzML	mouse_sp	phosphoproteome	546	35	0.0641	0.1154	0.0000	0.1430	0.0251	0.0736
+contaminated	PXD044080	20230501_AWC_IP_tgAWC028_306920-HA_Analysis_3.mzML	toxoplasma_me49	immunoprecipitation	2244	109	0.0486	0.0045	0.0000	0.0010	0.0231	0.0106
+contaminated	PXD054611	P775-R100_Hek293T_pcDNA3-1_HA_UT.mzML	human		1958	45	0.0230	0.7763	0.6222	0.7760	0.0072	0.0045
+contaminated	PXD047971	SE_515_K-3__5_0ul.mgf	saureus_nctc8325		1488	21	0.0141	0.3192	0.2857	0.3161	0.0047	0.0013
+contaminated	PXD014222	qExHF01_06004.mgf	human		3209	43	0.0134	0.5640	0.5581	0.4274	0.0044	-0.0031
+contaminated	PXD073126	250501_ZMM_KMI_sFtsk_4.mzML	msmegmatis_mc2		1055	13	0.0123	0.1782	0.0000	0.1990	0.0040	0.0136
+contaminated	PXD059573	20230325-GJY-11-C.mgf	pseudomonas_pao1		6561	79	0.0120	0.0009	0.0000	0.0003	0.0043	0.0044
+contaminated	PXD055077	SUMOylation_PhoX_TBDSPP_FT_FAIMS_140823.mzML	rabbit	flow-through	1304	134	0.1028	0.0054	0.0000	0.0042	0.0431	0.0738
+contaminated	PXD070403	Imp70-1.mzML	pig		1868	31	0.0166	0.9695	1.0000	0.9968	0.0069	-0.0001
+contaminated	PXD015689	20191001Sheep_Fat_bandb.MSMS.mgf	sheep	TripleTOF	3380	44	0.0130	0.1825	0.0682	0.1901	0.0049	0.0086
+clean	PXD047310	FruBP_Probe_final.mgf	human	clean control	6126	5	0.0008	0.1797	0.2000	0.1787	0.0005	-0.0001
+clean	PXD083967	20241106_DOD_1_164_64.mgf	mouse_sp	clean control	8340	6	0.0007	0.0258	0.0000	0.0386	0.0002	0.0011
+clean	PXD035984	QE2_William_Dominique_TP_LSK_Wt_A.raw.-1.mgf	mouse_sp	clean control	6363	0	0.0000	0.0949	nan	nan	0.0000	0.0000
+clean	PXD042789	CELL-2.mzML	mouse_sp	clean control	1490	0	0.0000	0.9785	nan	nan	0.0000	0.0000
+clean	PXD014443	20170412_QECl_MYW_SA_Hofer_Micro_NonPhosFr.mgf	mouse_sp	clean control	1939	0	0.0000	0.9654	nan	nan	0.0000	0.0000
+clean	PXD044432	Progenesisexport.DerivedFromSearchf052ec9d-7b61-4a70-a13c-553f587fbc71.mgf	human	clean control	828	0	0.0000	0.2512	nan	nan	0.0000	0.0000
+clean	PXD043220	OH_20220425_AdtoSph_Proteome_F5.mzML	human	clean control	1098	0	0.0000	0.3197	nan	nan	0.0000	0.0000
+clean	PXD073483	20250114_hela_50ng_ACN02.mgf	human	clean control	2346	0	0.0000	0.4152	nan	nan	0.0000	0.0000
+clean	PXD036680	20210120-LiangZL-iTRAQ.mzML	human	clean control	1342	0	0.0000	0.0007	nan	nan	0.0000	0.0000
+clean	PXD028802	Batch6_CL_Pool.raw__F008342_.mzid_Batch6_CL_Pool.raw__F008342_.MGF	human	clean control	9141	0	0.0000	0.9422	nan	nan	0.0000	0.0000

@@ -1,0 +1,39 @@
+group	project	file	phospho_enrichment	labelling	n_ms2	n_nucleobase_spectra	id_rate_all	id_rate_nucleobase	id_rate_no_nucleobase	id_rate_expected_nucleobase
+contaminated	PXD023674	Katy_phospho_3b_R.raw.-1.mgf	1	none	6097	5624	0.2075	0.1869	0.4524	0.6290
+contaminated	PXD023674	Katy_phospho__2a_R.raw.-1.mgf	1	none	6390	6032	0.1966	0.1795	0.4832	0.6369
+contaminated	PXD052300	1227MT16plexPhosphofractions.mzML	1	TMTpro	1668	82	0.0582	0.0488	0.0586	0.0528
+contaminated	PXD052300	1227MT16plexfractions.mzML	1	TMTpro	1685	468	0.1798	0.1197	0.2030	0.2061
+contaminated	PXD035256	Lysate_U87_3_F4.mgf	0	none	11169	726	0.1094	0.0510	0.1135	0.1461
+contaminated	PXD072006	CE3_2024Jan30_Jelinek_P23193_PO3_Fr.mzML	1	TMTpro	934	262	0.2398	0.1412	0.2783	0.3175
+contaminated	PXD021039	R16058_15_M2.mgf	0	none	10854	2919	0.0383	0.0048	0.0507	0.0497
+contaminated	PXD021039	R16058_15_M1.mgf	0	none	4686	1055	0.0800	0.0521	0.0881	0.0842
+contaminated	PXD033710	1022_F1S1_6ug_HIEC_R3-6CVs_540-661mz_CV-35-43-51-59-67-75.mgf	0	none	6222	90	0.3375	0.0556	0.3417	0.3397
+contaminated	PXD034105	QE1_Ateeq_Exp1_Sample19_R.raw.-1.mgf	1	none	10276	8672	0.1794	0.1592	0.2887	0.4873
+contaminated	PXD055857	20200115_HD_IN_Phospho2R.mzML	1	none	1952	1159	0.7613	0.7705	0.7478	0.8492
+contaminated	PXD015943	61caa4abd7fc8222___b1790p079_PP1_NTERA_AZD5363_r1.raw.-1.mgf	1	none	2453	1448	0.3180	0.2645	0.3950	0.4835
+contaminated	PXD015943	65563538acf34a7e___b1790p087_MCF7_DMSO_PP2_r1.raw.-1.mgf	1	none	2990	2368	0.2538	0.2141	0.4051	0.4929
+contaminated	PXD069360	24NP13410001.mgf	0	none	1342	19	0.2534	0.2105	0.2540	0.2287
+contaminated	PXD033369	20220108_EX1_UM5_Bauza001_SA_EXT02_PCSK1_Cl1_KO_ER_6_3_rep_uncalibrated.mgf	0	none	1182	61	0.1404	0.3770	0.1276	0.3178
+contaminated	PXD033369	20220108_EX1_UM5_Bauza001_SA_EXT02_DPP4_Cl5_KO_ENR_17_2_uncalibrated.mgf	0	none	866	49	0.0762	0.1224	0.0734	0.1436
+contaminated	PXD036323	Mashid_phospho_deglyco_05032_Mahshid.mzML	1	TMT	253	3	0.0474	0.0000	0.0480	0.0704
+contaminated	PXD036323	Mashid_phospho_deglyco_05034_Mahshid.mzML	1	TMT	256	34	0.0664	0.0000	0.0766	0.0739
+contaminated	PXD048033	F026829.mgf	0	none	3560	98	0.0317	0.0000	0.0326	0.0235
+clean	PXD083239	02152024_MCL1_c007_2.mzML	1	none	2007	0	0.2252		0.2252	
+clean	PXD069212	01_TK_iST-BCT_Hu_Plasma_DIA_30min_Source-4.mzML	0	none	1157	0	0.0017		0.0017	
+clean	PXD075199	5646_P065443_15SPD_FMS-35-45-55-65-75_R1.mzML	0	none	1316	1	0.2629	0.0000	0.2631	0.2069
+clean	PXD065571	20241209_Exploris_TS25_CheesemanLab_12_08_ES_87.mzML	1	none	875	0	0.0457		0.0457	
+clean	PXD014648	Nblastoma_100nM_Phospho_FAIMS_180min_FN04_C2_111420_CV-35.0_MXFiltered_003.mgf	1	none	9463	3	0.0005	0.0000	0.0005	0.0000
+clean	PXD065365	20170410_IgG_CSC_FN04_01.mgf	0	none	6049	0	0.0846		0.0846	
+clean	PXD043837	DNAJA2_wt_01.mgf	0	none	3843	0	0.0677		0.0677	
+clean	PXD038664	21-PEP-2532.mgf	0	none	2178	0	0.0009		0.0009	
+clean	PXD047899	CHIR_dRRM_1.mgf	0	none	6826	0	0.1548		0.1548	
+clean	PXD021194	20180601_SherrattM_MO_27.rawFull_Skin_27.mzid_20180601_SherrattM_MO_27.raw_Full_Skin_27.MGF	0	none	5228	0	0.9472		0.9472	
+clean	PXD004789	SW480_cyt_As2O3_3a.mgf	0	none	6872	0	0.6970		0.6970	
+clean	PXD005376	HCT116_profiling_ne_plestatins-2_24h_1_1.mgf	0	none	6195	0	0.7214		0.7214	
+clean	PXD035256	Lysate_H4_3_F4.mgf	0	none	1475	0	0.5539		0.5539	
+clean	PXD044328	20220702_hjk_KLT_Med_CKM_dsbu_RT190_inj3ot12_F6.mzML	0	none	655	0	0.0305		0.0305	
+clean	PXD032760	QEHFX2_00873_LES.mgf	1	TMT	1669	0	0.1600		0.1600	
+clean	PXD010637	Sweat_Glands_Synthetic_Peptides.mzML	0	none	1961	0	0.1953		0.1953	
+clean	PXD044801	20230220_ZKhan_sample_DP.mgf	0	none	11132	7	0.0000	0.0000	0.0000	0.0000
+clean	PXD019334	20181011_IDA_CM_POOL_1_2_3_4_C18_15cm_150min_5uLmin_5-30B_4uLiny_0.05_10__MGFPeaklist.mgf	0	none	9818	2	0.0382	0.0000	0.0382	0.0267
+contaminated	PXD034105	QE1_Ateeq_Exp1_Sample18_R.raw.-1.mgf	1	none	10095	8472	0.1884	0.1653	0.3093	0.4996

@@ -1,0 +1,43 @@
+1) nb10: atlas vs nucleoqc (same PRIDE files, same chunks)
+   PXD021039 R16058_15_M2.mgf                         atlas  26.89 % | nucleoqc  26.89 %  SEVERE   valid=True
+   PXD015558 F161679_NCBI_Vitisvinifera_Leonorbandb.M atlas   1.07 % | nucleoqc   1.07 %  MILD     valid=True
+   PXD033710 1022_F1S1_6ug_HIEC_R3-6CVs_540-661mz_CV- atlas   1.45 % | nucleoqc   1.45 %  MILD     valid=True
+   PXD067736 20-89PD22_3h-PTM.mzML                    atlas   2.20 % | nucleoqc   2.20 %  MILD     valid=True
+   PXD044412 HF_20210603_LSP_DIA_350to1000mz_40min_1t atlas  42.70 % | nucleoqc  42.70 %  SEVERE   valid=True
+   PXD035256 Lysate_U87_3_F4.mgf                      atlas   6.50 % | nucleoqc   6.50 %  MODERATE valid=True
+   PXD002656 XL_peptide_Ex2_withoutDTT.mzML           atlas  17.61 % | nucleoqc  17.61 %  MODERATE valid=True
+   PXD050648 MR_LW_S_Vos_110222_230222_Expl1_XL_MORC_ atlas  86.00 % | nucleoqc  86.00 %  SEVERE   valid=True
+   PXD018418 190223_Lumos_LC1200_nanoFlex_MN_NTERT230 atlas   0.00 % | nucleoqc   0.00 %  CLEAN    valid=True
+   PXD004789 SW480_cyt_As2O3_3a.mgf                   atlas   0.00 % | nucleoqc   0.00 %  CLEAN    valid=True
+   PXD030406 20200525_QExHFX1_RSLC1_Anrather_Hartl_MF atlas   0.00 % | nucleoqc   0.00 %  CLEAN    valid=True
+   PXD014648 Nblastoma_1uM_Phospho_FAIMS_180min_FN09_ atlas   0.34 % | nucleoqc   0.34 %  CLEAN    valid=True
+   PXD027430 hf2019061933.mzid_hf2019061933.MGF       atlas   0.00 % | nucleoqc   0.00 %  CLEAN    valid=True
+   PXD017604 WY_14.mgf                                atlas   0.00 % | nucleoqc   0.00 %  CLEAN    valid=True
+   PXD013939 KIF1CPTPN21-FERMEDC_2.mgf                atlas   0.02 % | nucleoqc   0.02 %  CLEAN    valid=True
+   PXD067891 20230227_Rix_Ou_Rucaparib_IP-TMT16_Plex2 atlas   0.00 % | nucleoqc   0.00 %  CLEAN    valid=True
+   16 files; median absolute difference 0.000 points, maximum 0.005; Spearman 1.000; same verdict in 16 of 16
+
+2) identification loss: estimated by nucleoqc vs measured with Sage (calibration files)
+   (measured = n_nb x (expected - observed) / (identified + lost))
+   PXD023674 Katy_phospho_3b_R.raw.-1.mgf       nb10  92.2 % | estimated  53.5 % | measured  66.3 %
+   PXD023674 Katy_phospho__2a_R.raw.-1.mgf      nb10  94.4 % | estimated  55.2 % | measured  68.7 %
+   PXD052300 1227MT16plexPhosphofractions.mzML  nb10   4.9 % | estimated   1.9 % | measured   0.3 %
+   PXD052300 1227MT16plexfractions.mzML         nb10  27.8 % | estimated  13.4 % | measured  11.8 %
+   PXD035256 Lysate_U87_3_F4.mgf                nb10   6.5 % | estimated   2.7 % | measured   5.3 %
+   PXD072006 CE3_2024Jan30_Jelinek_P23193_PO3_F nb10  28.1 % | estimated  12.7 % | measured  17.1 %
+   PXD021039 R16058_15_M2.mgf                   nb10  26.9 % | estimated  13.7 % | measured  24.0 %
+   PXD021039 R16058_15_M1.mgf                   nb10  22.5 % | estimated   9.0 % | measured   8.3 %
+   PXD033710 1022_F1S1_6ug_HIEC_R3-6CVs_540-661 nb10   1.4 % | estimated   0.6 % | measured   1.2 %
+   PXD034105 QE1_Ateeq_Exp1_Sample19_R.raw.-1.m nb10  84.4 % | estimated  46.4 % | measured  60.7 %
+   PXD055857 20200115_HD_IN_Phospho2R.mzML      nb10  59.4 % | estimated  27.0 % | measured   5.8 %
+   PXD015943 61caa4abd7fc8222___b1790p079_PP1_N nb10  59.0 % | estimated  28.2 % | measured  28.9 %
+   PXD015943 65563538acf34a7e___b1790p087_MCF7_ nb10  79.2 % | estimated  41.2 % | measured  46.5 %
+   PXD069360 24NP13410001.mgf                   nb10   1.4 % | estimated   0.5 % | measured   0.1 %
+   PXD033369 20220108_EX1_UM5_Bauza001_SA_EXT02 nb10   5.2 % | estimated   1.7 % | measured  -2.2 %
+   PXD033369 20220108_EX1_UM5_Bauza001_SA_EXT02 nb10   5.7 % | estimated   1.7 % | measured   1.5 %
+   PXD036323 Mashid_phospho_deglyco_05032_Mahsh nb10   1.2 % | estimated   0.4 % | measured   1.7 %
+   PXD036323 Mashid_phospho_deglyco_05034_Mahsh nb10  13.3 % | estimated   5.1 % | measured  12.9 %
+   PXD048033 F026829.mgf                        nb10   2.8 % | estimated   1.2 % | measured   2.0 %
+   PXD034105 QE1_Ateeq_Exp1_Sample18_R.raw.-1.m nb10  83.9 % | estimated  45.6 % | measured  59.8 %
+   20 files; Spearman 0.92 (p = 1.1e-08); Pearson 0.96; median absolute error 3.2 points
+   detects losses >=10 %: with estimate >=5 % -> 10 of 10 true, 2 false positives of 10

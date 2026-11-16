@@ -1,0 +1,448 @@
+project	year	instrument	organism	nuclease	sonication	phospho_enrichment	nucleic_acid_by_design	tissue	bacteria	ip_ap_ms	file	n_ms2	valid	reason	nb10	nb2
+PXD002592	2015	LTQ Orbitrap Velos	Latrodectus hesperus (western black widow spider)	0	0	0	0	1	0	0		0	skipped	not eligible		
+PXD002595	2015	LTQ Orbitrap Velos	Latrodectus hesperus (western black widow spider)	0	0	0	0	1	0	0		0	skipped	not eligible		
+PXD002967	2015	LTQ Orbitrap Elite; LTQ Orbitrap Velos	Homo sapiens (human)	0	0	0	0	1	0	0		0	skipped	not eligible		
+PXD003144	2015	TripleTOF 5600	Mus musculus (mouse)	1	0	0	1	0	0	0		0	skipped	not eligible		
+PXD003780	2016	LTQ Orbitrap	Drosophila melanogaster (fruit fly)	1	0	0	1	0	0	0		0	skipped	not eligible		
+PXD003826	2016	Orbitrap Fusion	Pseudomonas putida (strain bird-1)	0	0	0	0	0	1	0		0	skipped	not eligible		
+PXD003828	2016	Orbitrap Fusion	Pseudomonas stutzeri (pseudomonas perfectomarina)	0	0	0	0	0	1	0		0	skipped	not eligible		
+PXD003829	2016	Orbitrap Fusion	Pseudomonas putida (strain bird-1)	0	0	0	0	0	1	0		0	skipped	not eligible		
+PXD003830	2016	Orbitrap Fusion	Pseudomonas putida (strain bird-1)	0	0	0	0	0	1	0		0	skipped	not eligible		
+PXD004064	2016	Orbitrap Fusion	Pseudomonas putida (strain bird-1)	0	0	0	0	0	1	0		0	skipped	not eligible		
+PXD004065	2016	Orbitrap Fusion	Pseudomonas putida (strain bird-1)	0	0	0	0	0	1	0		0	skipped	not eligible		
+PXD003827	2016	Orbitrap Fusion	Pseudomonas fluorescens (strain sbw25)	0	0	0	0	0	1	0		0	skipped	not eligible		
+PXD004293	2016	TripleTOF 5600; LTQ Orbitrap Velos	Amphibalanus amphitrite (striped barnacle) (balanu	0	0	0	0	0	0	0		0	skipped	not eligible		
+PXD001974	2015	LTQ Orbitrap Elite	Homo sapiens (human)	1	0	0	0	0	0	0	OrbiElite05249.mgf	750	False	low-resolution MS2	0.0000	0.0013
+PXD002614	2015	LTQ Orbitrap Velos	Homo sapiens (human)	1	0	1	0	1	0	0	130312_narushima_3_PP_02.mgf	1605	False	low-resolution MS2	0.0000	0.0000
+PXD005158	2016	LTQ Orbitrap	Rattus norvegicus (rat); Equus caballus (horse); R	1	1	0	0	0	0	0		0	skipped	not eligible		
+PXD004280	2016	Q Exactive	Homo sapiens (human)	1	1	0	0	0	0	0	QEXI09185.mgf	7948	True		0.0000	0.0000
+PXD003662	2016	TripleTOF 5600	Melioribacter roseus (strain jcm 17771 / p3m-2)	1	0	0	0	0	1	0	T931_20140801_K_1_5-40_120min_5uLinj_1_MGFPeaklist.mgf	4772	False	low-resolution MS2	0.0000	0.0000
+PXD005131	2016	TripleTOF 5600	Mus musculus (mouse)	1	1	0	0	0	0	0	17_MGFPeaklist.mgf	3246	True		0.0003	0.0009
+PXD005905	2017	Orbitrap Fusion	Citrus hybrid cultivar	0	0	0	0	0	1	0		0	skipped	not eligible		
+PXD006010	2017	Orbitrap Fusion	Citrus hybrid cultivar	0	0	0	0	0	1	0		0	skipped	not eligible		
+PXD004634	2016	LTQ Orbitrap Elite	Sulfuritalea	1	0	0	0	0	1	0	BE27_cRNA_5assemblersNew_percolator_mod_2012BH2_data.mgf	868	False	low-resolution MS2	0.0012	0.0023
+PXD006011	2017	Orbitrap Fusion	Citrus hybrid cultivar	0	0	0	0	0	1	0		0	skipped	not eligible		
+PXD006712	2017	LTQ Orbitrap	Homo sapiens (human)	0	0	0	0	0	1	0		0	skipped	not eligible		
+PXD005419	2016	Orbitrap Fusion	Diaphorina citri (asian citrus psyllid)	0	1	0	0	1	1	0	FU_2015_0929_RJ_10_h1.mgf	2406	False	low-resolution MS2	0.0108	0.0158
+PXD006817	2017	LTQ Orbitrap Velos	Mus musculus (mouse)	1	0	0	1	0	0	0		0	skipped	not eligible		
+PXD007525	2017	LTQ Orbitrap Velos; Q Exactive	Saccharomyces cerevisiae (baker's yeast)	1	0	0	1	0	0	0		0	skipped	not eligible		
+PXD007935	2017	Q Exactive	Homo sapiens (human)	0	0	0	0	0	0	1		0	skipped	not eligible		
+PXD008128	2017	LTQ FT	Caulobacter crescentus cb15	1	0	0	0	0	0	0		0	skipped	not eligible		
+PXD005724	2017	Q Exactive	Neosartorya fumigata (aspergillus fumigatus); Mus 	1	0	0	0	0	0	0	WT-1408-c.mgf	1378	True		0.0000	0.0167
+PXD009650	2018	Orbitrap Fusion Lumos	Mus musculus (mouse)	1	0	0	1	1	0	0		0	skipped	not eligible		
+PXD009966	2018	Q Exactive	Homo sapiens (human)	1	0	0	1	1	0	1		0	skipped	not eligible		
+PXD005481	2016	Q Exactive	Homo sapiens (human)	1	0	0	0	0	0	0	JL405_JL396_HeLa_2000ng_Sens_02.mgf	4277	True		0.0000	0.0000
+PXD008985	2026	Orbitrap Fusion Lumos; LTQ Orbitrap Elite	Homo sapiens (human); Mus musculus (mouse)	0	1	0	0	0	0	0	160907A_NC_set_31D.mzML	1208	True		0.0000	0.0099
+PXD010144	2018	TripleTOF 5600; LTQ; LTQ Orbitrap	Rattus norvegicus (rat); Homo sapiens (human); Mus	1	0	0	0	0	0	0	3_stable28_OPHN1_v5636_A.mgf	8164	False	MS2 does not cover m/z 136	0.0000	0.0001
+PXD006134	2017	Q Exactive	Neosartorya fumigata (aspergillus fumigatus); Mus 	1	0	0	0	1	0	0	LFQ-Afum_Mmus_UP.mgf	3312	True		0.0012	0.0063
+PXD010487	2018	LTQ Orbitrap Velos	Homo sapiens (human)	1	1	0	1	0	0	1		0	skipped	not eligible		
+PXD010252	2018	LTQ Orbitrap Elite	Homo sapiens (human)	1	1	0	0	1	0	0	20141013_RK_Arseniy_humanECM_repeat_Progenesis.mgf	3363	False	low-resolution MS2	0.0000	0.0000
+PXD009183	2018	LTQ Orbitrap Velos	Perna viridis	1	0	0	0	0	0	0	P.mgf	4741	True		0.0006	0.0015
+PXD011090	2018	ProteomeDiscoverer input parameter	Salmonella enterica subsp. enterica serovar typhim	0	0	0	0	0	1	0		0	skipped	not eligible		
+PXD011796	2018	Q Exactive	Homo sapiens (human)	1	0	0	1	0	0	0		0	skipped	not eligible		
+PXD011948	2018	Q Exactive	Homo sapiens (human)	0	0	0	0	0	0	1		0	skipped	not eligible		
+PXD001890	2015	LTQ Orbitrap Elite	Homo sapiens (human)	1	0	0	0	1	0	0	GSC-Block2-repeat.mgf	1528	True		0.0033	0.0275
+PXD012438	2019	Q Exactive	Neosartorya fumigata (aspergillus fumigatus)	0	0	0	0	0	0	0		0	skipped	not eligible		
+PXD010333	2018	Orbitrap Fusion Lumos	Cricetulus griseus (chinese hamster) (cricetulus b	1	1	1	0	0	0	0	20180409_Hela03.raw_20180531_20ppm1.mgf	1483	False	MS2 does not cover m/z 136	0.1214	0.4437
+PXD013090	2019	Orbitrap Fusion Lumos; LTQ Orbitrap Velos; Q Exactive	Homo sapiens (human)	1	1	0	1	0	0	1		0	skipped	not eligible		
+PXD010920	2018	maXis	Escherichia coli	1	1	0	0	1	1	0	ecoli-anb2-08-10_RE3_01_1756.mgf	2154	False	low-resolution MS2	0.0000	0.0000
+PXD012577	2019	Xevo G2 Q-Tof	Paenarthrobacter nicotinovorans	1	0	0	0	0	1	0		0	skipped	not eligible		
+PXD012188	2018	Orbitrap Fusion ETD	Homo sapiens (human)	1	1	0	0	0	0	0	GH_301116_PHPT1_4_HCD.mgf	1153	False	low-resolution MS2	0.0078	0.0278
+PXD011073	2018	Q Exactive	Homo sapiens (human)	1	0	0	0	0	0	1	RG_p64.mgf	6108	False	low-resolution MS2	0.0000	0.0016
+PXD013806	2019	Orbitrap Fusion	Eubacterium limosum; Bacteria	1	1	0	0	0	1	0	31823_Sample2_JK_8F_merged31823_Lactate_2_F036885.mzid_31823_Sample2_JK_8F_merged_31823_Lactate_2_F036885.MGF	2934	False	low-resolution MS2	0.0000	0.0000
+PXD010472	2018	maXis	Escherichia coli	1	1	0	0	0	1	0	2D-220218-Sharl-muc-11_GD6_01_6676.mgf	2880	False	low-resolution MS2	0.0000	0.0000
+PXD013961	2019	Orbitrap Fusion	Eubacterium limosum; Bacteria	1	1	0	0	0	1	0	32268_Sample5_2D_Merged32268_Carnitine_5_F036930.mzid_32268_Sample_5_2D_Merged_32268_Carnitine_5_F036930.MGF	3061	False	low-resolution MS2	0.0000	0.0000
+PXD014933	2019	LTQ Orbitrap Velos	Homo sapiens (human)	0	0	0	1	0	0	1		0	skipped	not eligible		
+PXD013962	2019	Orbitrap Fusion	Eubacterium limosum; Bacteria	1	1	0	0	0	1	0	31918_C_Merged31918_Proline_Betaine_C_F036892.mzid_31918_C_Merged_31918_Proline_Betaine_C_F036892.MGF	2926	False	low-resolution MS2	0.0000	0.0000
+PXD016279	2019	LTQ Orbitrap Elite	Homo sapiens (human)	0	0	0	0	1	0	1		0	skipped	not eligible		
+PXD014185	2019	Q Exactive HF-X	Saccharomyces cerevisiae (baker's yeast)	1	0	0	0	0	0	1	H2578BL.mgf	4965	True		0.0000	0.0024
+PXD016880	2019	LTQ Orbitrap Velos	Homo sapiens (human)	1	0	0	1	0	0	0		0	skipped	not eligible		
+PXD017020	2020	Orbitrap Fusion Lumos	Gallus gallus (chicken)	0	0	0	0	0	0	0		0	skipped	not eligible		
+PXD017115	2020	Orbitrap Fusion	Homo sapiens (human)	0	0	0	1	1	0	0		0	skipped	not eligible		
+PXD017677	2020	LTQ Orbitrap Elite	Mus musculus (mouse)	0	0	0	1	0	0	1		0	skipped	not eligible		
+PXD018159	2020	LTQ Orbitrap Velos	Arabidopsis thaliana (mouse-ear cress)	1	0	0	1	0	0	1		0	skipped	not eligible		
+PXD014222	2019	Orbitrap Fusion Lumos; Q Exactive	Homo sapiens (human)	1	1	0	0	1	0	0	qExHF01_06004.mgf	3209	True		0.0134	0.0988
+PXD014443	2019	Q Exactive	Mus musculus (mouse)	1	1	1	0	0	0	0	20170412_QECl_MYW_SA_Hofer_Micro_NonPhosFr.mgf	1939	True		0.0000	0.0005
+PXD018578	2020	Q Exactive	Homo sapiens (human)	1	1	0	1	1	0	1		0	skipped	not eligible		
+PXD018189	2020	Orbitrap Fusion	Homo sapiens (human); Bos taurus (bovine)	1	0	1	0	0	0	0	BSAPhoX60min100_Slot1-2_01_3662.mgf	1788	False	low-resolution MS2	0.0000	0.0006
+PXD019238	2020	LTQ Orbitrap Velos	Homo sapiens (human)	1	0	0	1	1	0	1		0	skipped	not eligible		
+PXD019376	2020	LTQ	Homo sapiens (human)	0	0	0	1	0	0	1		0	skipped	not eligible		
+PXD018450	2020	Q Exactive	Homo sapiens (human)	1	0	0	0	0	0	0	50_2.mgf	4059	False	MS2 does not cover m/z 136	0.1569	0.5753
+PXD019612	2020	LTQ Orbitrap Velos	Plasmodium falciparum	0	0	0	0	0	0	0		0	skipped	not eligible		
+PXD019906	2020	LTQ Orbitrap XL	Haloferax volcanii ds2	1	0	0	1	0	0	1		0	skipped	not eligible		
+PXD019932	2020	LTQ Orbitrap XL	Haloferax volcanii ds2	1	0	0	0	0	0	1		0	skipped	not eligible		
+PXD019933	2020	LTQ Orbitrap XL	Haloferax volcanii ds2	1	0	0	0	0	0	1		0	skipped	not eligible		
+PXD019935	2020	Synapt MS	Homo sapiens (human); Mus musculus (mouse)	0	0	0	0	1	0	0		0	skipped	not eligible		
+PXD018265	2020	LTQ Orbitrap Elite	Mus musculus (mouse)	1	1	0	0	0	0	1	Ingel21761F064741.mzid_Ingel21761_F064741.MGF	2561	False	low-resolution MS2	0.0168	0.0254
+PXD014872	2019	Orbitrap Fusion; Q Exactive; Q Exactive HF	Schistosoma mansoni (blood fluke)	0	1	0	0	1	0	0	LN_20160315_ESO1-2.mgf	8457	True		0.0000	0.0004
+PXD020550	2020	LTQ Orbitrap Elite	Homo sapiens (human)	1	1	0	1	0	1	0		0	skipped	not eligible		
+PXD021069	2020	Q Exactive HF	Homo sapiens (human)	0	0	0	0	0	0	0		0	skipped	not eligible		
+PXD019739	2020	Q Exactive	Bacteria; Francisella tularensis subsp. holarctica	1	0	0	0	0	1	1	15_24_31-19-IP_FT_200_d1117_WCL_LFQ.mgf	11054	False	MS2 does not cover m/z 136	0.0002	0.0004
+PXD021244	2020	Orbitrap Fusion	Mus musculus (mouse)	1	0	0	0	1	0	1	F034074.mgf	7012	False	low-resolution MS2	0.0076	0.0084
+PXD022152	2020	LTQ Orbitrap	Homo sapiens (human)	1	0	0	0	0	0	1		0	skipped	not eligible		
+PXD022679	2020	Orbitrap Fusion	Homo sapiens (human); Mus musculus (mouse)	1	0	0	1	0	0	1		0	skipped	not eligible		
+PXD018714	2020	Q Exactive	Mycoplasma hominis atcc 23114	1	0	0	0	0	0	0	OP_11_20190802_OP-5.mgf	3008	True		0.0000	0.0000
+PXD015865	2019	Q Exactive	Mus musculus (mouse)	1	0	0	0	1	0	0	QEHF_20181102_LSantambrogio_S1.mgf	11826	True		0.0002	0.0047
+PXD023548	2021	Orbitrap Fusion	Homo sapiens (human)	1	0	0	1	1	0	1		0	skipped	not eligible		
+PXD023702	2021	Orbitrap Fusion	Mus musculus (mouse)	1	0	0	1	0	0	1		0	skipped	not eligible		
+PXD022128	2020	Q Exactive HF	Homo sapiens (human)	1	1	0	0	1	0	1	Service_Tyers_040220_3.mgf	11732	True		0.0010	0.0059
+PXD023989	2021	Orbitrap Fusion Lumos	Homo sapiens (human)	0	0	0	1	0	0	1		0	skipped	not eligible		
+PXD024148	2021	Orbitrap Fusion Lumos	Escherichia coli	1	1	0	1	0	1	1		0	skipped	not eligible		
+PXD024388	2021	Orbitrap Fusion	Homo sapiens (human)	1	1	0	1	0	0	1		0	skipped	not eligible		
+PXD024554	2021	Q Exactive Plus	Homo sapiens (human)	0	1	0	1	0	0	1		0	skipped	not eligible		
+PXD024689	2021	maXis	Hordeum vulgare (barley)	1	0	0	1	0	0	0		0	skipped	not eligible		
+PXD025238	2021	Orbitrap Fusion Lumos	Homo sapiens (human)	0	0	1	1	0	0	1		0	skipped	not eligible		
+PXD020152	2020	Orbitrap Fusion	Eubacterium limosum; Bacteria	1	1	0	0	0	1	0	31986_2_8Fractions_6ug_Merged31986_Butyrobetaine_2_F036916.mzid_31986_2_8Fractions_6ug_Merged_31986_Butyrobetaine_2_F036916.MGF	2893	False	low-resolution MS2	0.0000	0.0000
+PXD023712	2021	Q Exactive	Pseudomonas aeruginosa pao1; Escherichia coli	1	0	0	0	0	1	0	2020_S26_VGasser_500ng_13.mgf	2322	True		0.0009	0.0125
+PXD026725	2021	Orbitrap Fusion Lumos; Q Exactive HF	Mus musculus (mouse)	1	1	0	1	1	0	1		0	skipped	not eligible		
+PXD026116	2021	Orbitrap Fusion	Homo sapiens (human)	0	1	0	0	0	0	0	180416OFc1_DM-1663-PC-3-02-3-10X_005__F136722_.mzid_180416OFc1_DM-1663-PC-3-02-3-10X_005__F136722_.MGF	2104	False	low-resolution MS2	0.0019	0.0038
+PXD022767	2020	Q Exactive HF-X	Mus musculus (mouse)	1	1	0	0	1	0	0	P1E18cR2mgf.mgf	6543	True		0.0003	0.0008
+PXD020868	2020	Q Exactive	Pseudomonas aeruginosa pao1	1	0	0	0	0	1	0	2020_S21_VNormant_3_Untreated-3_500ng.mgf	3861	False	MS2 does not cover m/z 136	0.0018	0.0062
+PXD023034	2020	Orbitrap Fusion	Homo sapiens (human)	1	1	0	0	1	0	1	Ingel24485_BissonN_NB1181F001493.mzid_Ingel24485_BissonN_NB1181_F001493.MGF	2535	False	low-resolution MS2	0.0387	0.0600
+PXD027337	2021	Orbitrap Fusion Lumos; Orbitrap Fusion	Saccharomyces cerevisiae (baker's yeast)	1	0	1	1	0	0	0		0	skipped	not eligible		
+PXD026895	2021	Q Exactive	Chaetoceros sp.	1	0	0	0	0	0	0	191009_MK_ChRS19_100C10Z_blue_A.mzid_191009_MK_ChRS19_100C10Z_blue_A.MGF	7303	True		0.0001	0.0160
+PXD027655	2022	Orbitrap Fusion Lumos	Saccharomyces cerevisiae (baker's yeast)	1	0	0	1	0	0	1		0	skipped	not eligible		
+PXD026815	2021	maXis	Homo sapiens (human)	1	1	0	0	0	0	0	2000509_IP_YM_TAILS2_ACN_C2_01_12131.mgf.mgf	7123	False	low-resolution MS2	0.0000	0.0000
+PXD028945	2021	Orbitrap Fusion	Homo sapiens (human)	1	1	0	1	0	0	0		0	skipped	not eligible		
+PXD029354	2021	Orbitrap Fusion; timsTOF Pro	Homo sapiens (human)	1	0	0	1	0	0	1		0	skipped	not eligible		
+PXD026797	2021	maXis	Homo sapiens (human)	1	1	0	0	0	0	0	2000528_IP_YM_HEK_TAILS2_ACN_A5_01_12293.mgf.mgf	3300	False	low-resolution MS2	0.0000	0.0000
+PXD029577	2021	Orbitrap Fusion Lumos; Q Exactive HF	Saccharomyces cerevisiae (baker's yeast)	1	0	0	1	0	0	0		0	skipped	not eligible		
+PXD026619	2022	Orbitrap Fusion	Sphingomonas sp. leaf257; Rhizobium sp. leaf68	0	1	0	0	0	1	0	F282129.mgf	3206	False	low-resolution MS2	0.0349	0.0689
+PXD029647	2021	Q Exactive	Homo sapiens (human)	1	0	0	1	0	0	0		0	skipped	not eligible		
+PXD029904	2021	LTQ Orbitrap Velos; Q Exactive HF	Caenorhabditis elegans	1	1	0	1	0	1	1		0	skipped	not eligible		
+PXD028818	2021	Q Exactive	Pseudomonas aeruginosa pao1	1	0	0	0	0	1	0	2020_S30_VNormant_V20.mgf	1794	False	MS2 does not cover m/z 136	0.0095	0.0635
+PXD029599	2021	Orbitrap Fusion Lumos	Sus scrofa domesticus (domestic pig)	1	0	0	0	1	0	0	TTP0086_MSQ1744_20190718_Leonie-van-Leeuwen_DoxyUrine_1_S2-A1_1_3170_5.2.211.mgf	5248	False	low-resolution MS2	0.0000	0.0000
+PXD030610	2021	Orbitrap Fusion	Marine plankton environmental sample	1	0	0	0	0	0	0	200107_Tom_02_4.mzid_200107_Tom_02_4.MGF	2025	False	low-resolution MS2	0.0504	0.0874
+PXD031877	2022	Q Exactive HF-X	Arabidopsis thaliana (mouse-ear cress)	0	0	0	0	0	0	1		0	skipped	not eligible		
+PXD029531	2026	Q Exactive	Saccharomyces cerevisiae (baker's yeast); Escheric	1	0	0	0	0	1	0	wJD807.mzML	426	True		0.0164	0.1174
+PXD031222	2022	Q Exactive HF	Proteus mirabilis hi4320; Candida albicans (yeast)	1	0	0	0	0	1	0	1-KBM-P.mgf	6113	True		0.0731	0.1546
+PXD028802	2021	Q Exactive	Homo sapiens (human)	1	1	0	0	1	0	0	Batch6_CL_Pool.raw__F008342_.mzid_Batch6_CL_Pool.raw__F008342_.MGF	9141	True		0.0000	0.0000
+PXD033174	2022	Orbitrap Fusion Lumos	Drosophila melanogaster (fruit fly)	1	0	0	1	0	0	1		0	skipped	not eligible		
+PXD033175	2022	Orbitrap Fusion Lumos	Drosophila melanogaster (fruit fly)	1	0	0	1	0	0	1		0	skipped	not eligible		
+PXD033334	2022	Q Exactive	Synthetic rna	1	0	0	1	0	0	0		0	skipped	not eligible		
+PXD026953	2021	Q Exactive	Pseudo-nitzschia delicatissima; Thalassiosira pseu	1	0	0	0	0	1	0	151005_MMK_30nM_Zn_T.pseudonana_TriplicateA.msf.mzid_151005_MMK_30nM_Zn_T.pseudonana_TriplicateA.msf.MGF	13514	True		0.0000	0.0028
+PXD033387	2022	Orbitrap Eclipse	Bacteria; Azotobacter vinelandii dj	0	1	0	1	0	1	1		0	skipped	not eligible		
+PXD030889	2022	Q Exactive Plus; Orbitrap Exploris 480; Orbitrap Eclipse	Homo sapiens (human); Mus musculus (mouse)	1	0	0	0	1	0	1	2021_06_168_Eclipse_Faims_Hato_30Acn_sample12.mzML	472	False	low-resolution MS2	0.0021	0.0021
+PXD033467	2022	Orbitrap Fusion	Eubacterium limosum; Bacteria	1	1	0	0	0	1	0	32074_Choline_1_6uG_Merged__32074_Choline_1_F036925_.mzid_32074_Choline_1_6uG_Merged__32074_Choline_1_F036925_.MGF	3035	False	low-resolution MS2	0.0000	0.0000
+PXD033378	2022	Orbitrap Fusion	Plasmodium berghei	0	1	0	0	0	0	0	Actin_Gel17Nov_AspN_4h_on.mzML	758	False	low-resolution MS2	0.0000	0.0000
+PXD033621	2022	Orbitrap Fusion	Sus scrofa (pig)	1	0	0	0	1	0	0	NativeVF_2.mgf	4997	False	MS2 does not cover m/z 136	0.0000	0.0054
+PXD032362	2022	Q Exactive HF	Toxoplasma gondii rh; Homo sapiens (human)	1	0	0	0	0	0	1	BCC7-R2.mgf	5256	True		0.0000	0.0000
+PXD033642	2022	Q Exactive HF	Toxoplasma gondii rh	1	0	0	0	0	0	0	CaLCETSA_CR_R2_54C_HFX_norm.mzML	1063	True		0.0075	0.1016
+PXD033713	2022	Q Exactive HF	Toxoplasma gondii rh	1	0	0	0	0	0	0	CaLCETSA_TR_R4_10uM_Ca.mzML	1621	True		0.0000	0.0012
+PXD033765	2022	Orbitrap Exploris 480	Toxoplasma gondii rh	1	0	1	0	0	0	0	TIR1_zap_timecourse_wholeprot.mzML	1829	True		0.0000	0.0000
+PXD034000	2022	Orbitrap Fusion Lumos; Orbitrap Exploris 480	Homo sapiens (human)	0	1	1	0	1	0	0	2020_06_32_Nakshatri_Reggie_Phospho.mzML	2177	False	low-resolution MS2	0.1286	0.4584
+PXD033738	2022	Orbitrap Exploris 480	Toxoplasma gondii rh	1	0	1	0	0	0	0	PP1_tgALH158_whole_proteome_R2_2021.mzML	1653	True		0.0000	0.0012
+PXD034329	2022	Orbitrap Fusion Lumos	Homo sapiens (human)	0	1	0	1	0	0	1		0	skipped	not eligible		
+PXD034195	2022	Orbitrap Fusion Lumos	Desulfuromonas acetexigens	0	1	0	0	0	1	0	mascot_daemon_merge.mgf	1039	True		0.0000	0.0010
+PXD034117	2022	Q Exactive HF	Mus musculus (mouse)	0	1	0	0	1	0	0	mascot_daemon_merge__F030422_.mzid_mascot_daemon_merge__F030422_.MGF	2800	True		0.0000	0.0007
+PXD034356	2022	LTQ Orbitrap Elite; Q Exactive	Rattus norvegicus (rat); Mus musculus (mouse)	0	1	0	0	0	0	1	OE20160819-11_12__1B_CoIP20160801_MK__mouse-podocytes_IF-20160726_-KO_Podocin__Sol91_Podocin_Sigma-P0372__o_u_5v13_TL_shifted_-4.6bzw-4.4.mgf	1534	False	low-resolution MS2	0.0013	0.0052
+PXD034385	2022	timsTOF Pro	Pseudoteredinibacter isoporae	1	1	0	0	0	0	0	C3.mgf	5081	False	low-resolution MS2	0.0000	0.0000
+PXD034875	2022	Q Exactive HF	Homo sapiens (human)	1	1	1	1	0	0	0		0	skipped	not eligible		
+PXD034938	2022	Orbitrap Fusion Lumos	Homo sapiens (human)	1	0	0	1	0	0	1		0	skipped	not eligible		
+PXD032067	2022	Orbitrap Fusion	Mycobacterium avium 104	0	1	0	0	0	1	0	M_avium_F12_R1.mgf	2871	False	low-resolution MS2	0.2268	0.2518
+PXD034530	2022	Q Exactive HF	Homo sapiens (human)	0	1	0	0	0	1	0	Bio_Set4_F6.mgf	1517	True		0.0000	0.0053
+PXD035201	2022	Q Exactive	Homo sapiens (human)	0	1	0	0	0	0	0	20210625_Rix_Yi_Exclusion_FBDD_108_1.raw__F002676_.mzid_20210625_Rix_Yi_Exclusion_FBDD_108_1.raw__F002676_.MGF	4538	True		0.0007	0.0115
+PXD035225	2022	Q Exactive HF	Homo sapiens (human)	1	0	0	1	0	0	1		0	skipped	not eligible		
+PXD035007	2022	Orbitrap Fusion Lumos	Homo sapiens (human)	0	1	1	0	1	0	0	XWU_MCF7_EDX_TMTPro_pST_041420_F01-12.mzML	1914	True		0.2126	0.4974
+PXD033912	2022	Orbitrap Fusion	Homo sapiens (human)	1	1	0	0	1	0	1	24429_NB1157c__F001495_.mzid_24429_NB1157c__F001495_.MGF	2471	False	low-resolution MS2	0.0615	0.0834
+PXD035626	2022	Orbitrap Fusion Lumos	Homo sapiens (human)	0	1	0	1	1	0	0		0	skipped	not eligible		
+PXD035351	2022	Orbitrap Exploris 480	Acipenser baerii	0	1	0	0	0	0	0	F152574.mgf	10099	True		0.0028	0.0035
+PXD035689	2022	Orbitrap Fusion Lumos	Homo sapiens (human)	0	1	0	1	0	0	0		0	skipped	not eligible		
+PXD035699	2022	Orbitrap Fusion Lumos	Homo sapiens (human)	0	1	0	1	1	0	0		0	skipped	not eligible		
+PXD035527	2022	Q Exactive	Homo sapiens (human)	0	1	1	0	0	0	0	0__1hour_PP3_r1.raw.-1.mgf	8473	True		0.9238	0.9801
+PXD035202	2022	Q Exactive HF	Homo sapiens (human)	0	1	0	0	0	0	0	HaCaT_Osmotic_Control_3.3.mgf	10044	False	low-resolution MS2	0.0000	0.0000
+PXD036038	2022	Q Exactive	Homo sapiens (human)	1	0	0	1	0	1	1		0	skipped	not eligible		
+PXD036106	2022	Orbitrap Exploris 480	Homo sapiens (human)	1	0	1	1	0	0	0		0	skipped	not eligible		
+PXD034443	2022	Q Exactive HF	Rattus norvegicus (rat)	0	1	0	0	1	0	0	OEx31C_2021Feb22_ChoiMatthews_P20164_Y_fr06.mgf	1851	True		0.0000	0.0005
+PXD034138	2022	Orbitrap Fusion Lumos	Escherichia coli	0	1	0	0	0	1	0	F300723.mgf	3442	False	low-resolution MS2	0.0334	0.0474
+PXD036436	2022	Orbitrap Exploris 480	Homo sapiens (human)	1	1	0	1	0	0	1		0	skipped	not eligible		
+PXD036538	2022	Q Exactive	Homo sapiens (human)	1	1	0	1	0	0	1		0	skipped	not eligible		
+PXD035728	2022	Q Exactive	Mesodinium rubrum	1	0	0	0	0	0	0	161031_Johnson_G_LH23.mzid_161031_Johnson_G_LH23.MGF	7219	False	MS2 does not cover m/z 136	0.0000	0.0000
+PXD036413	2022	Q Exactive HF	Mus musculus (mouse)	0	1	0	0	1	0	0	20190221_ASD-D_F09.mzML	114	False	too few spectra		
+PXD036669	2022	Q Exactive HF	Homo sapiens (human)	0	1	1	0	0	0	0	QE2_PCI_MLL_PP_T7476.raw.-1.mgf	11418	False	low-resolution MS2	0.0000	0.0000
+PXD035695	2022	timsTOF Pro	Sus scrofa domesticus (domestic pig)	1	1	0	0	0	0	1	KaDo_7_10_EGFP_3_Slot1-35_1_1139_calibrated.mgf	2200	False	low-resolution MS2	0.0000	0.0000
+PXD036621	2022	Q Exactive	Unclassified aminobacter	0	1	0	0	0	1	0	2016S06_C-Gruffaz_DIFF_MD1-sucrose1-300ng.mgf	4688	True		0.0028	0.0286
+PXD036680	2022	Q Exactive	Homo sapiens (human)	0	1	0	0	0	0	0	20210120-LiangZL-iTRAQ.mzML	1342	True		0.0000	0.0000
+PXD037185	2022	Orbitrap Fusion	Nicotiana benthamiana	0	1	0	0	1	0	0	Mudpit_1Feb2022_Brandon_53a__53a_F13_WT_12dpi_2a_.mzid.gz_Mudpit_1Feb2022_Brandon_53a__53a_F13_WT_12dpi_2a_.MGF	2591	True		0.0004	0.0162
+PXD037227	2022	Q Exactive HF	Mus musculus (mouse)	0	1	1	0	0	0	0	310722_Single-shot_LFQ.mzML	1104	False	MS2 does not cover m/z 136	0.0661	0.2210
+PXD035984	2022	Q Exactive	Mus musculus (mouse)	0	1	0	0	0	0	0	QE2_William_Dominique_TP_LSK_Wt_A.raw.-1.mgf	6363	True		0.0000	0.0000
+PXD036910	2022	Q Exactive HF	Homo sapiens (human)	0	1	0	0	1	0	0	GB_VN_20220109_uPAC50-REV-notrap_profyle_PBB70--nontumordecal-2.mgf	674	False	low-resolution MS2	0.0000	0.0000
+PXD036817	2022	Orbitrap Exploris 480	Mouse gut metagenome; Mus musculus (mouse)	1	0	1	0	1	1	0	210903_AB_SGLT2i_Liver_Akita_F.mzML	1378	True		0.0015	0.0109
+PXD037805	2022	Q Exactive HF	Gammarus fossarum	0	0	0	0	0	0	0		0	skipped	not eligible		
+PXD037840	2022	Orbitrap Exploris 480	Homo sapiens (human)	1	0	0	1	0	0	1		0	skipped	not eligible		
+PXD037900	2022	Agilent instrument model	Homo sapiens (human)	0	1	0	0	1	0	0		0	skipped	not eligible		
+PXD037920	2022	Agilent instrument model	Homo sapiens (human)	0	1	0	0	1	0	0		0	skipped	not eligible		
+PXD037384	2022	Q Exactive HF	Schistosoma mansoni	0	1	0	0	1	0	0	LN_20160315_BE1-1.mgf	9737	True		0.0003	0.0010
+PXD037544	2022	Q Exactive	Bos taurus (bovine)	0	1	0	0	0	0	0	deer_liver_2.mgf	1826	True		0.0000	0.0022
+PXD038236	2022	LTQ Orbitrap Elite	Mus musculus (mouse)	0	1	0	1	1	0	0		0	skipped	not eligible		
+PXD036362	2022	Q Exactive	Bombyx mori (silk moth)	0	1	0	0	1	0	1	UtaPromega_aktueller_workflow_mitMaster.mzML	1615	True		0.0000	0.0204
+PXD038010	2022	Q Exactive HF	Homo sapiens (human)	0	1	1	1	0	0	1		0	skipped	not eligible		
+PXD037570	2022	impact II	Homo sapiens (human); Mus musculus (mouse); Coxsac	0	1	0	0	0	0	0	181128_MV_NS_TAILS_4_B7_01_9151.mgf	1963	False	low-resolution MS2	0.0000	0.0000
+PXD038898	2022	Q Exactive	Drosophila melanogaster (fruit fly)	0	0	0	1	0	0	0		0	skipped	not eligible		
+PXD038009	2022	Q Exactive Plus	Chlamydomonas reinhardtii	0	1	0	0	0	0	0	GMM_20210510_HL-E1-2.mzML	1180	True		0.0000	0.0017
+PXD037243	2022	TripleTOF 5600	Strongyloides stercoralis	0	1	0	0	0	0	0	Tiberti_Larve_SsL3_30082019_LIB1.mgf	2809	True		0.0000	0.0000
+PXD038746	2022	Q Exactive	Homo sapiens (human)	0	1	0	0	0	0	0	Mudpit_68_H_B-A1.mzid_Mudpit_68_H_B-A1.MGF	3212	True		0.0000	0.0093
+PXD038901	2022	Orbitrap Fusion Lumos	Homo sapiens (human)	0	1	0	0	1	0	1	NEURO643_B_all.mzML	819	True		0.0000	0.0000
+PXD039658	2023	LTQ Orbitrap	Salmonella typhimurium (strain lt2 / sgsc1412 / at	0	1	0	0	0	1	0		0	skipped	not eligible		
+PXD039714	2023	TripleTOF 5600	Eubacteriales	0	0	0	0	0	1	0		0	skipped	not eligible		
+PXD039280	2023	TripleTOF 5600	Homo sapiens (human)	0	1	0	0	0	0	0	Data111317_04_Peak_file_for_Table_2_homo_sapiens.mgf	3103	True		0.0000	0.0003
+PXD039853	2023	Q Exactive HF	Caenorhabditis elegans	1	1	0	1	0	1	1		0	skipped	not eligible		
+PXD038921	2022	Orbitrap Fusion Lumos	Homo sapiens (human)	0	1	1	0	0	0	0	20220413_LU50HMC10_pl22013_LO_TMT10_G180_NP.mgf	4047	True		0.0000	0.0015
+PXD039817	2023	Q Exactive	Mus musculus (mouse)	0	1	0	0	1	0	0	Liver_20160513_TMT-phospho_S01_F01_PSC_PEMMR.mzML	1940	False	low-resolution MS2	0.0005	0.0129
+PXD039426	2023	Orbitrap Exploris 480	Toxoplasma gondii gt1	1	0	1	0	0	0	0	20210607_CDPK1TimeCourse_TMTPro1_PHOSPHO_ZAP_b_.mzML	1798	True		0.0000	0.0017
+PXD039919	2023	Orbitrap Exploris 480	Toxoplasma gondii gt1	1	0	0	0	0	0	1	SPARK_mNG_IPs_IPlib_2reps.mzML	1984	True		0.0005	0.0030
+PXD039922	2023	Orbitrap Exploris 480	Toxoplasma gondii gt1	1	0	0	0	0	0	1	SPARK_IPs_IPlib_2reps.mzML	1900	True		0.0005	0.0005
+PXD039979	2023	Orbitrap Exploris 480	Toxoplasma gondii gt1	1	0	0	0	0	0	1	tgALH273_308_IPs_2reps_fixd.mzML	2317	True		0.0004	0.0004
+PXD039983	2023	Orbitrap Exploris 480	Toxoplasma gondii gt1	1	0	0	0	0	0	1	Aug2022_tgALH293_DDA_3reps.mzML	2021	True		0.0005	0.0045
+PXD040089	2023	Orbitrap Fusion Lumos	Homo sapiens (human)	1	0	0	1	0	0	1		0	skipped	not eligible		
+PXD040176	2023	Orbitrap Fusion	Diplonema papillatum	0	1	0	1	0	1	1		0	skipped	not eligible		
+PXD040407	2023	Q Exactive HF	Saccharomyces cerevisiae (baker's yeast)	0	1	1	1	0	1	0		0	skipped	not eligible		
+PXD039985	2023	Orbitrap Exploris 480	Toxoplasma gondii gt1	1	0	0	0	0	0	1	Aug2022_tgALH294_DDA_2reps_90min.mzML	2335	False	MS2 does not cover m/z 136	0.0000	0.0004
+PXD040022	2023	Q Exactive	Nicotiana benthamiana	1	0	0	0	0	0	1	2021_S08_MB_WT1flag.mgf	2141	False	MS2 does not cover m/z 136	0.0000	0.0131
+PXD040102	2023	Orbitrap Eclipse	Homo sapiens (human)	0	1	0	0	1	0	0	MMD6143_chymo_ptm_H1_F3__F173459_.mzid_MMD6143_chymo_ptm_H1_F3__F173459_.MGF	3965	False	low-resolution MS2	0.0003	0.0189
+PXD041240	2023	Q Exactive	Oryza sativa (rice)	1	0	0	1	1	0	1		0	skipped	not eligible		
+PXD038549	2022	Q Exactive HF	Marine plankton environmental sample	0	1	0	0	0	0	0	210526_0977_097_S14_66.mzML	318	True		0.0000	0.0094
+PXD040773	2023	Q Exactive HF	Anncaliia algerae	0	1	0	0	0	0	0	E-PP-IHP-7974-70kDa_2ME.mzML	113	False	too few spectra		
+PXD041335	2023	Orbitrap Fusion Lumos	Escherichia coli	1	0	0	0	0	1	0	S22045-Yale-N1.mgf	4116	False	MS2 does not cover m/z 136	0.0005	0.0044
+PXD041472	2023	LTQ Orbitrap Velos	Homo sapiens (human)	1	1	0	1	0	0	1		0	skipped	not eligible		
+PXD040570	2023	Orbitrap Fusion Lumos	Homo sapiens (human)	0	1	0	0	0	0	0	CC_GW_166_P12921_M1123-1-TMTpro15-36F-MS2quant-OTOT-TotalPepNorm-ANOVAprotAbund-AR-20221109.mgf	4839	True		0.0008	0.0017
+PXD038947	2022	Orbitrap Exploris 480	Homo sapiens (human)	0	1	1	0	0	0	0	20220903_EXPL2_EVO7_AMV_SA_20SPD_hyDIA_Phos_30k1s_IonOptics_ZrIMAC_HCT116_ADH_3h_03.mzML	38	False	too few spectra		
+PXD041877	2023	Orbitrap Fusion Lumos	Streptomyces coelicolor	1	1	0	1	0	1	0		0	skipped	not eligible		
+PXD042146	2023	LTQ Orbitrap	Trypanosoma brucei	1	1	0	1	0	0	1		0	skipped	not eligible		
+PXD040598	2023	Orbitrap Exploris 480	Toxoplasma gondii gt1	1	0	0	0	0	0	0	SPARK_unenriched_whole_proteome.mzML	1523	True		0.0000	0.0000
+PXD042545	2023	Q Exactive HF	Homo sapiens (human)	1	1	0	1	0	0	0		0	skipped	not eligible		
+PXD041263	2023	Q Exactive	Escherichia coli	0	1	0	0	0	1	0	20190602_FB_Cofrac_Rep1_F95.mgf	138	False	too few spectra		
+PXD041380	2023	Q Exactive	Lupinus albus; Lupinus mutabilis	0	1	0	0	1	0	0	F142992.mgf	19631	True		0.0110	0.0140
+PXD042735	2023	LTQ Orbitrap Elite	Mus musculus (mouse)	1	0	0	1	0	0	1		0	skipped	not eligible		
+PXD042362	2023	Orbitrap Eclipse	Homo sapiens (human)	0	1	0	0	0	0	0	2020-12-6-kb-70min_FAIMS_100micron_3cv_-35_-45_-55--OTIT-JOC_2_uncalibrated.mgf	573	False	low-resolution MS2	0.0017	0.0105
+PXD042792	2023	Q Exactive HF	Homo sapiens (human)	0	0	0	0	1	0	0		0	skipped	not eligible		
+PXD042789	2023	Orbitrap Exploris 480	Mus musculus (mouse)	0	1	0	0	0	0	0	CELL-2.mzML	1490	True		0.0000	0.0054
+PXD042268	2023	Orbitrap Fusion Lumos	Mus musculus (mouse)	0	1	1	0	1	0	0	TP_TMT6_Gel.mzML	1920	True		0.1307	0.1500
+PXD042941	2023	LTQ Orbitrap Elite; Q Exactive HF	Homo sapiens (human)	0	0	0	1	1	0	1		0	skipped	not eligible		
+PXD042648	2023	Q Exactive HF	Leptospira interrogans serovar copenhageni str. fi	0	1	0	0	0	0	0	ECV_Set2_F9.mgf	5635	False	MS2 does not cover m/z 136	0.0007	0.0106
+PXD041677	2023	Q Exactive HF	Homo sapiens (human)	0	1	0	0	0	0	0	20220111_LS_7.mzML	1076	True		0.0000	0.0112
+PXD042990	2023	LTQ Orbitrap Elite	Saccharomyces cerevisiae (baker's yeast)	1	0	0	1	0	0	0		0	skipped	not eligible		
+PXD042819	2023	Orbitrap Fusion; Orbitrap Eclipse	Mus musculus (mouse)	1	0	0	0	0	0	1	VK_N2a_cells_Ctrl_diff_CW_F2203_168.mzML	231	False	MS2 does not cover m/z 136	0.0000	0.0043
+PXD042951	2023	Orbitrap Fusion	Mus musculus (mouse)	0	1	1	0	1	0	0	KarinHochrainerMS-3512994_TMT10plex-.mgf	7776	True		0.0010	0.0023
+PXD042640	2023	Q Exactive Plus; Orbitrap Exploris 480	Homo sapiens (human)	0	1	1	0	1	0	0	JCP_051422_AC4_pY_PDX11_erl_ag_18plex.mzML	1477	True		0.0718	0.2911
+PXD042938	2023	Orbitrap Exploris 480	Homo sapiens (human)	0	1	0	0	0	0	0	LFQ_CD19_6vs6_area_ttest.mzML	1929	True		0.2193	0.3997
+PXD043301	2023	Orbitrap Exploris 480	Homo sapiens (human)	1	1	1	1	0	0	0		0	skipped	not eligible		
+PXD042995	2023	Orbitrap Exploris 480	Mus musculus (mouse)	0	1	0	0	0	0	0	111264590andr_5071.mgf	3400	True		0.0041	0.0235
+PXD042989	2023	Orbitrap Exploris 480	Toxoplasma gondii rh	1	0	1	0	0	0	0	PKA_C3_depletion_whole_proteome_tag_4CVs_DB49.mzML	2150	True		0.0009	0.0009
+PXD043738	2023	Xevo G2-XS QTof	Rattus norvegicus (rat)	0	1	0	0	1	0	0		0	skipped	not eligible		
+PXD043838	2023	maXis	Homo sapiens (human)	0	0	0	1	0	0	0		0	skipped	not eligible		
+PXD043253	2023	Q Exactive HF	Pseudomonas aeruginosa	0	1	0	0	0	1	0	T-WT_R3.mgf	5794	True		0.0000	0.0000
+PXD043220	2023	Q Exactive Plus	Homo sapiens (human)	0	1	1	0	1	0	0	OH_20220425_AdtoSph_Proteome_F5.mzML	1098	True		0.0000	0.0009
+PXD043979	2023	LTQ Orbitrap	Schizosaccharomyces pombe 927	0	0	0	1	0	0	1		0	skipped	not eligible		
+PXD044182	2023	Orbitrap Exploris 480	Toxoplasma gondii gt1	1	0	0	1	1	0	0		0	skipped	not eligible		
+PXD043542	2023	Orbitrap Exploris 480	Homo sapiens (human)	0	1	0	0	1	0	1	OE2-20210918_003.mgf	9912	False	low-resolution MS2	0.0008	0.0023
+PXD043723	2023	Orbitrap Fusion Lumos	Homo sapiens (human)	0	1	1	0	0	0	0	LD_230508_PC-Zr_enrich2_1hr_nlOTOTOT.mzML	1	False	too few spectra		
+PXD043888	2023	Q Exactive	Homo sapiens (human)	0	1	0	0	0	0	0	5_ByS_R1.mzML	195	False	too few spectra		
+PXD044080	2023	Orbitrap Exploris 480	Toxoplasma gondii gt1	1	0	0	0	0	0	1	20230501_AWC_IP_tgAWC028_306920-HA_Analysis_3.mzML	2244	True		0.0486	0.0490
+PXD043516	2023	Q Exactive	Homo sapiens (human)	0	1	0	0	0	0	0	R16_06302022_40_74_VV_GR7_TMT2_UPhg_tt.mgf	7263	True		0.0003	0.0010
+PXD044625	2023	Q Exactive	Homo sapiens (human)	1	1	0	1	0	0	0		0	skipped	not eligible		
+PXD044867	2023	Q Exactive	Homo sapiens (human)	1	0	0	1	0	0	1		0	skipped	not eligible		
+PXD044931	2023	Q Exactive	Homo sapiens (human)	0	1	1	1	1	0	1		0	skipped	not eligible		
+PXD044269	2023	LTQ Orbitrap Velos	Mus musculus (mouse)	1	0	0	0	0	0	0	Mudpit_jm_QEHx_05192022_Gorbatyuk_oglyco_global_C4_1__F061526_.mzid_Mudpit_jm_QEHx_05192022_Gorbatyuk_oglyco_global_C4_1__F061526_.MGF	3817	True		0.0008	0.0013
+PXD044230	2023	Orbitrap Exploris 480	Escherichia coli	1	0	0	0	0	1	0	20230218_Exploris_ES902_LouridoLab_AK_DMSO_Fraction_.mzML	1750	True		0.0006	0.0057
+PXD044432	2023	Synapt MS	Homo sapiens (human)	0	1	0	0	1	0	0	Progenesisexport.DerivedFromSearchf052ec9d-7b61-4a70-a13c-553f587fbc71.mgf	828	True		0.0000	0.0000
+PXD045298	2023	Q Exactive HF	Homo sapiens (human)	0	1	0	0	0	0	0	ApoE3_astrocytes_2.mzML	685	False	MS2 does not cover m/z 136	0.0000	0.0000
+PXD044398	2023	Orbitrap Exploris 480	Toxoplasma gondii rh	1	0	1	0	0	0	0	tgALH088_enriched_withimputation.mzML	2038	True		0.0010	0.0010
+PXD045581	2023	Q Exactive HF	Homo sapiens (human)	1	0	0	0	0	0	1	eGFP-RNAseT2_R2.mgf	5019	True		0.0000	0.0000
+PXD045677	2023	Orbitrap Fusion Lumos; Orbitrap Exploris 480	Homo sapiens (human)	0	1	0	1	1	0	0		0	skipped	not eligible		
+PXD045725	2023	Q Exactive HF	Drosophila melanogaster (fruit fly)	0	0	0	0	0	0	0		0	skipped	not eligible		
+PXD045647	2023	Q Exactive HF	Homo sapiens (human)	0	1	0	0	1	0	0	Sh-270.mgf	1974	True		0.0000	0.0339
+PXD045599	2023	TripleTOF 5600	Chlamydomonas reinhardtii	1	1	1	0	0	0	0	20230919_PWS_Cr_global_progenesis_expt_top10.mgf	4403	False	low-resolution MS2	0.0575	0.1251
+PXD044960	2023	Orbitrap Exploris 480	Homo sapiens (human)	0	1	0	0	0	0	0	F162257.mgf	8206	True		0.0010	0.0018
+PXD045606	2023	Q Exactive Plus	Aedes aegypti aegypti	0	1	0	0	1	0	0	JI_2889252_F1.mzid_JI_2889252_F1.MGF	3116	True		0.0000	0.0090
+PXD044361	2023	Orbitrap Exploris 480	Toxoplasma gondii rh	1	0	1	0	0	0	0	PKGAID_phosphoproteome_V2_multiconsensus.mzML	1793	True		0.1523	0.2259
+PXD046329	2023	Orbitrap Fusion Lumos	Homo sapiens (human)	0	1	0	0	0	0	0	S13078_4_A_1_220408.mzid_S13078_4_A_1_220408.MGF	2488	False	low-resolution MS2	0.0374	0.0579
+PXD046733	2023	Orbitrap Fusion	Mus musculus (mouse)	1	1	0	1	0	0	1		0	skipped	not eligible		
+PXD046895	2023	LTQ Orbitrap Elite	Saccharomyces cerevisiae (baker's yeast)	0	0	0	1	0	0	0		0	skipped	not eligible		
+PXD046211	2023	Orbitrap Fusion Lumos; Orbitrap Exploris 240; timsTOF SCP	Homo sapiens (human)	0	1	0	0	0	0	0	CBIO725_6.mzML	150	False	too few spectra		
+PXD046398	2023	timsTOF Pro	Homo sapiens (human)	0	1	0	0	1	0	0	393_B3_Slot2-12_1_4443_DA5.3.236_1.mgf	3878	False	low-resolution MS2	0.0000	0.0003
+PXD045785	2023	LTQ Orbitrap Elite; timsTOF Pro 2	Mus musculus (mouse)	1	0	0	0	1	0	0	Eclipse_00243_CSE_18months_3.raw.refined.mgf	951	False	low-resolution MS2	0.0074	0.0189
+PXD047055	2023	Q Exactive	Bos taurus (bovine)	0	1	0	0	0	0	1	5A_DDA_2h_150ng_injection_MOD.mzML	925	False	MS2 does not cover m/z 136	0.0000	0.0022
+PXD046956	2023	Q Exactive HF	Homo sapiens (human)	0	1	0	0	0	0	0	Q2302_SR_230213_E2A_154.mzML	91	False	too few spectra		
+PXD047582	2023	Orbitrap Fusion; nanoACQUITY UPLC	Homo sapiens (human)	1	1	0	1	0	0	1		0	skipped	not eligible		
+PXD047767	2023	LTQ Orbitrap Velos	Mus musculus (mouse)	0	1	0	1	0	0	1		0	skipped	not eligible		
+PXD047061	2023	Orbitrap Fusion Lumos	Mus musculus (mouse)	0	1	0	0	0	0	0	20220209_R2D2_4624_29.raw__F003083_.mzid_20220209_R2D2_4624_29.raw__F003083_.MGF	2334	False	low-resolution MS2	0.0643	0.0835
+PXD047310	2023	TripleTOF 5600	Homo sapiens (human)	0	1	0	0	0	0	1	FruBP_Probe_final.mgf	6126	True		0.0008	0.0010
+PXD046383	2023	Q Exactive	Mus musculus (mouse)	0	1	0	0	0	0	0	EL_S2F2.mgf	1513	False	MS2 does not cover m/z 136	0.0013	0.0033
+PXD047413	2023	Q Exactive	Mus musculus (mouse)	0	1	1	0	0	0	0	20210701_0623_MC_TW_LLQE_BMDM_Mem_LWT_HKO_LPS_chemo_32.raw_20230203.mgf	11273	True		0.0003	0.0010
+PXD047971	2023	Q Exactive HF	Staphylococcus aureus	1	1	0	0	0	1	0	SE_515_K-3__5_0ul.mgf	1488	True		0.0141	0.0954
+PXD048340	2024	Synapt MS	Homo sapiens (human)	0	1	0	0	1	0	0	ProgenesisQIPexport.DerivedFromSearch9acdda50-b438-4373-b287-bb8e205723e4.mgf	4590	True		0.0000	0.0020
+PXD046632	2023	Orbitrap Fusion Lumos	Mycobacterium smegmatis	1	1	0	0	0	1	0	220401_HS-10.mzML	1200	False	low-resolution MS2	0.0000	0.0008
+PXD048358	2024	Orbitrap Exploris 240	Rattus norvegicus (rat); Escherichia coli; Homo sa	1	0	0	0	1	1	0	20230919_Beads_OT2_MOUSE_Multiconsensus.mzML	1828	True		0.0093	0.0542
+PXD048928	2024	Orbitrap Fusion Lumos	Dineutus hornii; Dineutus discolor; Orectochilus v	0	1	0	0	1	0	0	Dineutus_discolor_RAG0033_3.mgf	3840	False	MS2 does not cover m/z 136	0.0003	0.0008
+PXD048344	2024	Synapt MS	Homo sapiens (human)	0	1	0	0	1	0	0	ProgenesisQIPexport.DerivedFromSearch8d5a1498-b332-429c-b277-f0b6592cb357.mgf	3389	True		0.0035	0.0260
+PXD050108	2024	Orbitrap Fusion Lumos	Homo sapiens (human)	0	1	0	1	0	0	1		0	skipped	not eligible		
+PXD050442	2024	maXis	Homo sapiens (human)	0	0	0	1	0	0	0		0	skipped	not eligible		
+PXD049002	2024	Q Exactive HF	Sus scrofa domesticus (domestic pig)	0	1	0	0	1	0	0	20221206_FxH_freek_sus_unrev_reviewed.mzML	1729	True		0.0006	0.0040
+PXD048617	2024	Synapt MS	Homo sapiens (human)	1	0	0	0	0	0	0	Radwa1.DerivedFromSearchf72f9896-8e4b-45ed-a86d-b0aff667847d.mgf	8776	False	low-resolution MS2	0.0000	0.0000
+PXD049261	2024	Q Exactive Plus	Mus musculus (mouse)	0	1	0	0	1	0	0	20190606_proteomics_ten2.mgf	2232	True		0.0000	0.0081
+PXD050863	2024	LTQ Orbitrap XL	Homo sapiens (human)	0	1	0	0	1	0	0		0	skipped	not eligible		
+PXD050869	2024	Orbitrap Exploris 240	Streptomyces coelicolor; Bacteria	0	1	0	1	0	1	0		0	skipped	not eligible		
+PXD050875	2024	LTQ Orbitrap	Homo sapiens (human)	0	1	0	0	0	0	0		0	skipped	not eligible		
+PXD050464	2024	Q Exactive	Caenorhabditis elegans	0	1	0	0	1	0	0	wt_02.mzML	157	False	too few spectra		
+PXD051310	2024	Q Exactive HF	Equus caballus (horse)	0	1	0	0	1	1	0	310523_MP_EOTRH01_D5.mgf	8682	False	MS2 does not cover m/z 136	0.0005	0.0012
+PXD050374	2024	Orbitrap Exploris 480	Janthinobacterium lividum	0	1	0	0	0	1	0	F161771.mgf	7560	True		0.0022	0.0050
+PXD050494	2024	Q Exactive HF	Candida albicans (yeast)	0	1	0	0	0	1	0	Biofilm_S4F1.mgf	11657	False	low-resolution MS2	0.0962	0.1023
+PXD051376	2024	Orbitrap Fusion Lumos	Homo sapiens (human)	0	1	0	0	0	0	0	Lumos13376_TV_MCF7_3_PtDAPCl2.raw.refined.mgf	958	False	low-resolution MS2	0.0052	0.0251
+PXD051835	2024	Q Exactive HF	Chlamydomonas reinhardtii	0	1	0	0	0	0	0	F004555.mgf	9740	False	low-resolution MS2	0.0001	0.0001
+PXD051457	2024	Orbitrap Eclipse	Homo sapiens (human)	0	1	0	0	0	0	1	esf5_0045.mgf	11943	True		0.0011	0.0018
+PXD051845	2024	Q Exactive	Suncus murinus; Hipposideros armiger	0	1	0	0	0	0	0	20240415-ZMD-Sorex-22kd.mgf	4867	True		0.0002	0.0062
+PXD048913	2024	Q Exactive	Rattus norvegicus (rat)	0	1	1	0	0	0	0	CC_DMSO_prot_2.raw.refined.mgf	4943	False	MS2 does not cover m/z 136	0.0000	0.0000
+PXD052032	2024	Orbitrap Fusion Lumos	Homo sapiens (human)	0	1	0	0	0	0	1	220929_Abby_tmt_1_.mzML	984	False	low-resolution MS2	0.0000	0.0000
+PXD052339	2024	Synapt MS	Homo sapiens (human)	1	0	0	0	0	1	0	BAO.DerivedFromSearch8f6868ca-0f73-4893-bf0f-c842ea441c08.mgf	6856	True		0.0000	0.0000
+PXD052468	2024	Orbitrap Exploris 480	Danio rerio (zebrafish) (brachydanio rerio)	0	1	0	0	1	0	0	EX1_DG_16650_P5_Control_3_09082022-calib.mzML	1142	True		0.0026	0.0053
+PXD052597	2024	Q Exactive HF	Saccharomyces cerevisiae (baker's yeast)	0	1	0	1	0	0	0		0	skipped	not eligible		
+PXD052929	2024	Orbitrap Eclipse	Saccharomyces cerevisiae (baker's yeast)	1	0	0	1	0	0	0		0	skipped	not eligible		
+PXD051587	2024	timsTOF Pro 2; Orbitrap Eclipse	Caenorhabditis elegans	0	1	0	0	0	0	0	Eclipse_04238_FP_D10_Vehicle2.raw.refined.mgf	903	False	low-resolution MS2	0.0421	0.0764
+PXD053040	2024	LTQ Orbitrap Velos	Homo sapiens (human)	1	1	0	1	0	0	1		0	skipped	not eligible		
+PXD052087	2024	Q Exactive HF	Asparagopsis taxiformis	0	1	0	0	1	0	0	20230818_SI_ATaxiformisAndNCBI1_FINAL.mzML	1216	False	MS2 does not cover m/z 136	0.0000	0.0230
+PXD051312	2024	Exactive Plus; Orbitrap Exploris 480	Equus caballus (horse)	0	1	0	0	0	0	0	Aleona_yolk_Sac_2.mzML	739	False	MS2 does not cover m/z 136	0.0014	0.0095
+PXD052474	2024	Q Exactive HF	Saccharomyces cerevisiae (baker's yeast)	0	1	0	0	1	0	1	ELevy_4400080_PM2_120224-calib.mzML	952	True		0.0000	0.0063
+PXD053262	2024	Orbitrap Fusion	Human respiratory syncytial virus a; Homo sapiens 	0	1	0	1	0	0	1		0	skipped	not eligible		
+PXD053496	2024	Q Exactive Plus	Homo sapiens (human)	0	0	0	0	0	0	0		0	skipped	not eligible		
+PXD053619	2024	Orbitrap Exploris 480	Homo sapiens (human)	1	1	1	1	0	0	0		0	skipped	not eligible		
+PXD052938	2024	Orbitrap Exploris 480	Homo sapiens (human)	0	1	0	0	1	0	0	26_KH_CarotidEV_Tissue_20230728.mzML	1694	True		0.0006	0.0124
+PXD053240	2024	Orbitrap Exploris 240	Homo sapiens (human)	0	1	1	0	0	0	0	20211013_SARS_Cells_TMT16plex_Fosfo_Time_ttest_Allcomparison.mzML	1220	True		0.1303	0.4287
+PXD054179	2024	Q Exactive	Homo sapiens (human)	0	1	0	1	0	0	0		0	skipped	not eligible		
+PXD053134	2024	LTQ Orbitrap Velos	Homo sapiens (human)	0	1	0	0	1	0	1	Mudpit_jm_QEHFx_06172022_RSamant_1315HIF1alP8h_N_Abonly__F061658_.mzid_Mudpit_jm_QEHFx_06172022_RSamant_1315HIF1alP8h_N_Abonly__F061658_.MGF	11139	True		0.0005	0.0016
+PXD054183	2024	Q Exactive	Homo sapiens (human)	0	1	0	1	0	0	0		0	skipped	not eligible		
+PXD052483	2024	timsTOF Pro 2; Q Exactive	Pseudomonas aeruginosa pao1	1	0	0	0	0	1	0	2019_S46_VNormant_14_FCR-2_500ng.mgf	3946	True		0.0003	0.0063
+PXD053061	2024	Orbitrap Exploris 480	Mus musculus (mouse)	0	1	1	0	1	0	0	Adipocytes_Phospho_HpHF02.mzML	546	True		0.0641	0.2839
+PXD054429	2024	Orbitrap Fusion	Homo sapiens (human)	1	0	0	1	1	0	1		0	skipped	not eligible		
+PXD054211	2024	Q Exactive HF-X	Rattus norvegicus (rat)	0	1	0	0	0	0	0	LF22-026_Lallai_rnk10.mgf	2772	True		0.0007	0.0011
+PXD054597	2024	Orbitrap Eclipse	Arabidopsis thaliana (mouse-ear cress)	1	1	0	1	1	0	1		0	skipped	not eligible		
+PXD054119	2024	Orbitrap Eclipse	Homo sapiens (human)	0	1	0	0	0	0	0	20240126_Eclipse_ES902_CheesemanLab_Async_DSN1_totalnorm.mzML	1163	True		0.0000	0.0000
+PXD054400	2024	Synapt MS	Galleria mellonella	0	1	0	0	0	1	0	18082022_Hemolymph.DerivedFromSearch8f924ad0-2d3d-4217-95ee-c4ed756fec7d.mgf	5495	True		0.0000	0.0000
+PXD054579	2024	Q Exactive HF	Homo sapiens (human)	1	0	0	0	0	1	1	FR_BRIN1351_PY094_AC_3.mgf	3216	False	low-resolution MS2	0.0009	0.1138
+PXD055129	2024	Orbitrap Exploris 480; Q Exactive HF	Homo sapiens (human)	0	1	0	1	0	0	0		0	skipped	not eligible		
+PXD054592	2024	LTQ Orbitrap Elite	Mus musculus (mouse)	1	0	0	0	1	0	0	20160429_RL_MR_120min_LC09__FR2_PBS1_LC09_.mzid_20160429_RL_MR_120min_LC09__FR2_PBS1_LC09_.MGF	2353	False	low-resolution MS2	0.0000	0.0000
+PXD055236	2024	Q Exactive HF	Plasmodium knowlesi strain h; Plasmodium falciparu	1	0	0	1	0	0	0		0	skipped	not eligible		
+PXD054611	2024	Q Exactive	Homo sapiens (human)	0	1	0	0	1	0	1	P775-R100_Hek293T_pcDNA3-1_HA_UT.mzML	1958	True		0.0230	0.1001
+PXD053792	2024	Orbitrap Fusion Lumos	Homo sapiens (human); Hepatitis b virus	1	0	0	0	0	0	0	HepG2NTCP_Day_6_E.mzML	1231	False	MS2 does not cover m/z 136	0.0000	0.0008
+PXD055008	2024	Orbitrap Exploris 480	Candida albicans (yeast)	1	1	0	0	0	1	0	06346-Candida24files.mgf	4658	True		0.0004	0.0004
+PXD055382	2024	Q Exactive HF	Komagataella pastoris (strain gs115 / atcc 20864) 	0	1	0	0	0	0	0	20230331_FJ_E1200_MWN_15cm_140min_1617_Secretome_500ng_insulin_WT.mgf	15714	True		0.0008	0.0023
+PXD055838	2024	LTQ Orbitrap Velos	Homo sapiens (human)	0	1	0	1	0	0	0		0	skipped	not eligible		
+PXD055896	2024	Orbitrap Fusion Lumos	Homo sapiens (human)	0	0	0	1	0	0	0		0	skipped	not eligible		
+PXD055086	2024	Orbitrap Fusion Lumos	Homo sapiens (human)	0	1	0	0	0	0	1	MS221065_MH_AR_AER_B1_155.mzML	616	False	low-resolution MS2	0.0000	0.0000
+PXD055598	2024	Orbitrap Exploris 480	Homo sapiens (human); Mus musculus (mouse)	1	0	0	0	1	1	1	1431_BA_8plex_PNGase_fractions.mzML	941	True		0.0000	0.0011
+PXD056399	2024	Orbitrap Fusion Lumos	Pseudomonas oleovorans	0	0	0	0	0	0	0		0	skipped	not eligible		
+PXD056514	2024	LTQ Orbitrap; Q Exactive	Homo sapiens (human)	0	1	1	1	0	0	0		0	skipped	not eligible		
+PXD056539	2024	Q Exactive	Escherichia coli	0	0	0	0	0	1	0		0	skipped	not eligible		
+PXD055534	2024	Orbitrap Exploris 480	Streptococcus pneumoniae serotype 2 (strain d39 / 	1	1	0	0	0	1	0	F008886.mgf	11066	False	MS2 does not cover m/z 136	0.0002	0.0014
+PXD056948	2024	Orbitrap Fusion	Homo sapiens (human)	1	0	0	1	0	0	1		0	skipped	not eligible		
+PXD056364	2024	Q Exactive	Homo sapiens (human)	0	1	0	0	1	0	0	LF23-013_Zhang_LissOrgMDS2_MDS_rnk10.mgf	3136	True		0.0000	0.0010
+PXD056695	2024	Q Exactive HF-X	Homo sapiens (human)	0	1	0	0	1	0	0	QX17632CMO.mgf	1828	True		0.0000	0.0082
+PXD055605	2024	Q Exactive	Homo sapiens (human)	0	1	0	0	0	0	1	RC_PPi_01-M893-A03-SM09HC-M-P10638-1.mzML	524	True		0.0000	0.0935
+PXD055222	2024	ZenoTOF 7600	Esox lucius; Cervus; Ursus spelaeus; Dama dama; Le	0	1	0	0	0	0	0	240405_Canis_1_1_p.mgf	1540	True		0.0006	0.0390
+PXD055941	2024	Orbitrap Eclipse	Nicotiana benthamiana; Myzus persicae	0	1	0	0	0	0	1	jic003390sm_RE31_0924_231004_01.mzML	1864	False	low-resolution MS2	0.0231	0.0333
+PXD058106	2024	Orbitrap Exploris 480	Bos taurus (bovine)	0	1	0	0	1	0	0	ce2_2022apr26_26_p22008Griffiths_na2.mgf	3001	True		0.0000	0.0040
+PXD057782	2024	LTQ Orbitrap Elite	Chaetoceros simplex	0	1	0	0	0	0	0	MAGMAG34009636.mgf	5731	False	MS2 does not cover m/z 136	0.0000	0.0000
+PXD058012	2024	LTQ Orbitrap Elite	Cavia porcellus (guinea pig)	0	1	1	0	1	0	0	RO-CS-LE-210813-ORourkeB-DF-UnEnriched-MS2.mzML	1369	True		0.0000	0.0015
+PXD057244	2024	timsTOF Pro	Brucella abortus	1	1	0	0	0	1	0	Mudpit_URBM-AL-240105-2_Slot1-5_1_9559_6.0.434.MGF	5131	False	low-resolution MS2	0.0000	0.0000
+PXD057861	2024	Orbitrap Eclipse	Mus musculus (mouse)	1	1	0	0	1	0	0	20230410_GH_Retina_TMT-11_16plex_Multiplex11.mzML	853	False	low-resolution MS2	0.0000	0.0000
+PXD058617	2024	LTQ	Escherichia coli	0	0	0	0	0	1	0		0	skipped	not eligible		
+PXD057543	2024	Orbitrap Eclipse	Nicotiana benthamiana; Myzus persicae	0	1	0	0	0	0	1	jic003360mg_re31_230705_01.mzML	1861	False	low-resolution MS2	0.0269	0.0344
+PXD059037	2024	Orbitrap Fusion Lumos	Mus musculus (mouse)	1	0	1	1	0	0	0		0	skipped	not eligible		
+PXD058585	2024	LTQ Orbitrap Elite; LTQ Orbitrap Velos; Orbitrap Exploris 48	Saccharomyces cerevisiae (baker's yeast)	0	1	0	0	0	1	0	Kuch_AMP_noalkyl2.mgf	6459	True		0.0006	0.0033
+PXD058484	2024	Q Exactive HF	Human astrovirus 1; Human astrovirus mlb2; Homo sa	1	1	0	0	0	0	0	LN231114_pAVIC_MLB2_trypsin_Nterm_bRP5.mzML	789	True		0.7009	0.8428
+PXD058178	2024	Orbitrap Eclipse	Bos taurus (bovine)	0	1	0	0	1	0	0	Griffiths_Plex6.mzML	1247	True		0.0000	0.0008
+PXD058665	2024	Orbitrap Fusion Lumos	Vibrio phage icp1_2006_e; Vibrio cholerae serotype	1	0	0	0	0	0	0	YaminiM_101024_YM4_HCD.mgf	1166	False	low-resolution MS2	0.0034	0.0206
+PXD059573	2025	Q Exactive HF	Pseudomonas aeruginosa pao1	0	1	0	0	0	1	0	20230325-GJY-11-C.mgf	6561	True		0.0120	0.0466
+PXD059580	2025	TripleTOF 5600	Escherichia coli	0	1	0	0	0	1	0	E6_2.mzML	4	False	too few spectra		
+PXD059217	2024	Orbitrap Fusion; LTQ Orbitrap XL	Human alphaherpesvirus 1; Varicellovirus	0	1	0	0	0	0	0	150310OFc1_WO-0811-VZV-3-6_046.mgf	1400	False	low-resolution MS2	0.0000	0.0007
+PXD060651	2025	Q Exactive	Homo sapiens (human)	1	1	0	1	0	0	1		0	skipped	not eligible		
+PXD060652	2025	LCQ Classic	Homo sapiens (human)	0	0	0	0	1	0	0		0	skipped	not eligible		
+PXD059808	2025	Orbitrap Fusion Lumos	Mus musculus (mouse)	1	1	0	0	0	0	0	20230907_16_Mizushima_lab_mixed.mzML	1277	False	low-resolution MS2	0.0000	0.0000
+PXD060687	2025	LTQ Orbitrap Velos	Homo sapiens (human)	0	1	0	1	1	0	0		0	skipped	not eligible		
+PXD060946	2025	LTQ Orbitrap	Escherichia coli	0	0	0	0	0	1	0		0	skipped	not eligible		
+PXD060410	2025	Q Exactive	Homo sapiens (human)	0	1	0	0	1	0	0	200212_LB206_34_PA_FA_frontal_31_66.mgf	3376	True		0.0003	0.0003
+PXD061097	2025	Q Exactive	Mus musculus (mouse)	0	1	0	1	0	0	0		0	skipped	not eligible		
+PXD059817	2025	Q Exactive HF	Escherichia coli	0	1	0	0	0	1	0	LL_Lisolet_191031_17.MGF	2478	True		0.0004	0.0004
+PXD061284	2025	Orbitrap Fusion	Cytomegalovirus; Homo sapiens (human)	0	1	0	1	0	0	0		0	skipped	not eligible		
+PXD058325	2024	Orbitrap Exploris 480	Albuginales; Erysiphales sp.; Peronospora sp.; Puc	0	1	0	0	0	0	0	F156896.mgf	12823	True		0.0182	0.0256
+PXD060047	2025	Orbitrap Fusion	Homo sapiens (human)	0	1	0	0	0	0	0	B10009Shiftbio-Exosome-RA20240416.mzML	1445	True		0.0000	0.0000
+PXD062112	2025	Q Exactive HF	Homo sapiens (human)	0	1	0	1	0	0	0		0	skipped	not eligible		
+PXD061295	2025	timsTOF Pro	Homo sapiens (human)	1	0	0	0	0	0	1	nov5-NPI-A3_Slot1-17_1_1618.mzid_nov5-NPI-A3_Slot1-17_1_1618.MGF	2698	False	low-resolution MS2	0.0000	0.0000
+PXD061013	2025	Orbitrap Fusion Lumos	Homo sapiens (human)	0	1	1	0	0	0	0	LD_211116_precipitation_total_Acetonitrile-3.mgf	2496	True		0.0000	0.0020
+PXD060676	2025	Orbitrap Fusion Lumos	Aurantiochytrium limacinum atcc mya-1381	1	0	0	0	0	0	0	totalProteome_sample5_dia3.mzML	842	False	low-resolution MS2	0.0000	0.0000
+PXD062695	2025	Orbitrap Fusion Lumos	Mus musculus (mouse)	1	1	0	1	0	0	1		0	skipped	not eligible		
+PXD063048	2025	LTQ Orbitrap Velos Pro	Homo sapiens (human)	0	1	0	0	0	0	1	F005000.mgf	4302	True		0.0002	0.0007
+PXD062951	2025	Q Exactive	Caenorhabditis elegans	0	1	0	0	1	1	0	P20201023-17.mgf	6761	True		0.0034	0.0351
+PXD062087	2025	Orbitrap Eclipse	Mus musculus (mouse)	0	1	1	0	1	0	0	2022_11_223_Eclipse_FAIMS_aurora_Durbin_TMTpro_Phospho2.mzML	1702	False	low-resolution MS2	0.3514	0.5347
+PXD062184	2025	Orbitrap Fusion Lumos	Homo sapiens (human)	1	0	0	0	0	0	1	CC_GW_188-M1199-A0_total_peptide_amount_norm.mzML	914	False	low-resolution MS2	0.0000	0.0000
+PXD063336	2025	timsTOF Pro 2	Paramecium tetraurelia	1	0	0	1	0	0	1		0	skipped	not eligible		
+PXD061267	2025	Q Exactive	Homo sapiens (human)	0	1	0	0	1	0	0	Margulis_soluble.MSMS.mgf	10155	True		0.0030	0.0150
+PXD062265	2025	Q Exactive HF	Homo sapiens (human)	0	1	0	0	0	0	0	F009864.mgf	13949	False	low-resolution MS2	0.0049	0.0095
+PXD063438	2025	Q Exactive	Homo sapiens (human)	0	1	0	0	1	0	0	P1211R-A-ECT32-18PLEX-F.mzML	1437	True		0.0021	0.0104
+PXD063068	2025	Orbitrap Eclipse	Homo sapiens (human)	0	1	0	0	0	0	0	OE_20240808_02_070324-WT1-2v2_Ubenrichpeaklist.mzML	1998	True		0.1186	0.1191
+PXD064230	2025	Q Exactive	Gallus gallus (chicken)	0	1	0	0	1	0	0	muscle3.mgf	1244	True		0.0000	0.0008
+PXD064958	2025	LTQ; Orbitrap Fusion Lumos	Pyrobaculum calidifontis	1	1	0	1	0	1	0		0	skipped	not eligible		
+PXD063728	2025	timsTOF Pro 2	Mus musculus (mouse)	1	0	0	0	0	0	1	2424001_DDA_Max_Mitose_1_S4-B12_1_13439.d.refined.mgf	3787	False	low-resolution MS2	0.0000	0.0000
+PXD064531	2025	Orbitrap Fusion Lumos	Lepyronia quadrangularis; Cuerna striata; Neotibic	0	1	0	0	1	0	0	Philaenus_spumarius_RAG0044_3.mgf	3391	False	MS2 does not cover m/z 136	0.0015	0.0032
+PXD065448	2025	timsTOF Pro 2	Homo sapiens (human)	1	0	0	1	0	0	1		0	skipped	not eligible		
+PXD063085	2025	Orbitrap Fusion	Cricetulus griseus (chinese hamster) (cricetulus b	0	1	0	0	0	0	0	DP12_Ubiq_D7_31_A_.mzML	610	False	low-resolution MS2	0.0721	0.1033
+PXD064480	2025	Q Exactive HF	Helicobacter cinaedi ccug 18818 = atcc baa-847	1	0	0	0	0	1	0	Sh-474.mzid_Sh-474.MGF	6553	True		0.0029	0.0427
+PXD065500	2025	Orbitrap Fusion	Mus musculus (mouse)	1	0	0	0	0	0	0	Ctrl_3aef9b87cedf1f80d___Ctrl_3.mgf.export.F012033.mzid_Ctrl_3_aef9b87cedf1f80d___Ctrl_3.mgf.export.F012033.MGF	6640	True		0.0006	0.0062
+PXD066766	2025	LTQ Orbitrap	Homo sapiens (human)	1	1	0	1	0	0	1		0	skipped	not eligible		
+PXD063060	2025	Orbitrap Fusion	Homo sapiens (human)	1	1	0	0	1	0	0	Secretome_BIRvsS.mzML	683	False	low-resolution MS2	0.0249	0.0469
+PXD066515	2025	Q Exactive HF	Mus musculus (mouse)	0	1	0	0	1	0	0	CB_3M_Het_1.mzML	2121	False	MS2 does not cover m/z 136	0.0000	0.0024
+PXD065909	2025	timsTOF Pro 2	Staphylococcus aureus	1	0	0	0	0	1	0	2023_S34_2_withZn_200ng_Slot2-5_1_3333.d.mgf	6186	False	low-resolution MS2	0.0000	0.0000
+PXD067661	2025	Q Exactive HF	Homo sapiens (human)	1	1	0	1	0	0	0		0	skipped	not eligible		
+PXD068416	2025	timsTOF SCP	Chromera velia	0	0	0	0	0	0	0		0	skipped	not eligible		
+PXD066801	2025	Orbitrap Eclipse	Homo sapiens (human)	1	0	0	0	0	0	0	20241122_2024-53476_pkc_1.mgf	6430	True		0.0000	0.0092
+PXD068570	2025	Orbitrap Fusion Lumos	Homo sapiens (human)	0	1	0	1	0	0	1		0	skipped	not eligible		
+PXD066865	2025	Orbitrap Fusion	Enterocloster citroniae; Enterocloster hominis (ex	0	1	0	0	0	1	0	Ea_Ec_Lp_DMSO_B__168b6337fbfbed49___Ea_Ec_Lp_DMSO_B.mgf.export.F012305_.mzid_Ea_Ec_Lp_DMSO_B__168b6337fbfbed49___Ea_Ec_Lp_DMSO_B.mgf.export.F012305_.MGF	4394	True		0.0002	0.0105
+PXD068786	2025	Q Exactive HF	Mus musculus (mouse)	0	0	0	0	1	0	0		0	skipped	not eligible		
+PXD067042	2025	Q Exactive HF	Homo sapiens (human)	0	1	1	0	0	0	0	Sh-367-1.mzid_Sh-367-1.MGF	7641	True		0.0050	0.0106
+PXD068482	2025	Q Exactive Plus	Homo sapiens (human)	1	1	1	0	1	0	0	QE1_SMMG_EXP03_PP_Sample_05.raw.-1.mgf	3788	True		0.6534	0.8915
+PXD069427	2025	Q Exactive	Burkholderia thailandensis e264; Bacteria	0	1	0	1	0	1	0		0	skipped	not eligible		
+PXD068780	2025	Orbitrap Ascend; Q Exactive HF	Acanthamoeba castellanii str. neff; Mimivirus	0	1	0	0	0	0	1	R443_SXXC-R1.mgf	11045	True		0.0000	0.0000
+PXD069909	2025	Q Exactive HF	Agrobacterium fabrum str. c58; Bacteria	0	1	0	1	0	1	0		0	skipped	not eligible		
+PXD069099	2025	Orbitrap Fusion Lumos	Homo sapiens (human)	0	1	0	0	0	0	1	20250319_MHMC_4190_.mzML	895	False	low-resolution MS2	0.0000	0.0000
+PXD070965	2025	Orbitrap Fusion Lumos	Plasmodium berghei anka	0	1	1	1	0	0	0		0	skipped	not eligible		
+PXD069219	2025	Orbitrap Fusion Lumos	Homo sapiens (human)	0	1	0	0	0	0	1	MS221115_MH_AR_AER_B2_35.mzML	638	False	low-resolution MS2	0.0000	0.0000
+PXD071382	2025	Orbitrap Fusion Lumos	Trypanosoma cruzi dm28c	0	1	0	1	0	0	0		0	skipped	not eligible		
+PXD065059	2025	Q Exactive HF-X	Rattus norvegicus (rat)	0	1	0	0	1	0	0	LF21-024_Moszczynska_rnk10.mgf	2441	True		0.0000	0.0008
+PXD065120	2025	Orbitrap Fusion	Mycobacterium smegmatis	0	1	0	0	0	1	0	Experiment_MS19-167_Magda_MSNAGAM3_from_OT_190710_21_MS19-167_MSNAGAM3.mzid_Experiment_MS19-167_Magda_MSNAGAM3_from_OT_190710_21_MS19-167_MSNAGAM3.MGF	3130	False	low-resolution MS2	0.0431	0.0709
+PXD070123	2025	Orbitrap Fusion Lumos	Lake water metagenome	0	1	0	0	0	1	0	20240328_C34548_049_S650149_ZE-31MAR21-02-1_Group_36.indexed.mzML	818	False	low-resolution MS2	0.0000	0.0000
+PXD070299	2025	LTQ Orbitrap Velos	Burkholderia cenocepacia h111; Bacteria	0	1	0	0	0	0	1	Protein_band_1.mzML	597	False	low-resolution MS2	0.0000	0.0000
+PXD072074	2025	Q Exactive	Mytilus californianus	0	1	0	1	1	0	0		0	skipped	not eligible		
+PXD072128	2025	SELECT SERIES Cyclic IMS	Ginkgo biloba	0	1	0	0	0	0	0		0	skipped	not eligible		
+PXD071869	2025	Waters instrument model; Orbitrap Exploris 480; ZenoTOF 7600	Halomonas bluephagenesis; Escherichia coli	1	0	0	0	0	1	0	UNIMAN_30SPD_400ng_005_cl_pw_noZ_pw_noZ_reComv.mzML	0	False	too few spectra		
+PXD071267	2025	Q Exactive	Mus musculus (mouse)	0	1	0	0	0	0	1	20250718-0806-0819_S0420-A_20250822.mgf	6693	True		0.0000	0.0021
+PXD071546	2025	Orbitrap Fusion Lumos	Homo sapiens (human)	0	1	0	0	0	0	1	ShengyunCP60IngelFeb2023.mzML	1780	False	MS2 does not cover m/z 136	0.0006	0.0067
+PXD071487	2025	timsTOF Pro 2	Mus musculus (mouse)	0	1	0	0	1	0	0	2220002-4-K41-Femelle-KO_S1-D11_1_2967.d.refined.mgf	3635	False	low-resolution MS2	0.0000	0.0003
+PXD072146	2025	timsTOF Pro	Drosophila subobscura	0	1	0	0	1	0	0	SH_220422_Mated_03_Slot1-30_1_1460_5.3.342.mgf	3885	False	low-resolution MS2	0.0000	0.0000
+PXD072211	2025	Orbitrap Exploris 240	Mus musculus (mouse)	1	1	0	0	1	0	0	20250606_MAvila_2348_TMTpro_10Fr_Static.mzML	1555	True		0.0000	0.0019
+PXD073007	2026	Q Exactive HF	Homo sapiens (human)	0	1	0	0	0	0	0	20240905_Exploris_ES902_CFD_TMTIP_.mzML	1828	True		0.0000	0.0005
+PXD073076	2026	Orbitrap Exploris 480; timsTOF HT	Mus musculus (mouse)	0	1	0	0	0	0	0	HT_MSP2500384_WT_phos_2_Slot1-26_1_5128_calibrated.mzML	1837	False	low-resolution MS2	0.0000	0.0000
+PXD073126	2026	Synapt XS	Mycolicibacterium smegmatis mkd8	0	1	0	0	0	1	1	250501_ZMM_KMI_sFtsk_4.mzML	1055	True		0.0123	0.0256
+PXD073003	2026	LTQ Orbitrap Velos	Musca domestica	0	1	1	0	0	0	0	FemaleHousefly_Phos.mzML	1281	True		0.4543	0.5113
+PXD072701	2026	Orbitrap Fusion Lumos	Mus musculus (mouse)	0	1	1	0	0	0	1	20241203_R2D2_4958_FeNTA_6.raw__F007598_.mzid_20241203_R2D2_4958_FeNTA_6.raw__F007598_.MGF	2350	False	low-resolution MS2	0.0251	0.0434
+PXD073444	2026	Q Exactive HF	Apis mellifera (honeybee)	0	1	0	0	0	0	0	sVarroa_A2.mzML	155	False	too few spectra		
+PXD073840	2026	Orbitrap Fusion	Mycobacterium tuberculosis h37rv	1	0	0	0	0	1	0	20230123_NK_b1_cftw_4-5_DIA.mzML	1168	False	low-resolution MS2	0.0000	0.0000
+PXD073483	2026	Orbitrap Ascend	Homo sapiens (human)	1	1	1	0	1	0	0	20250114_hela_50ng_ACN02.mgf	2346	True		0.0000	0.0055
+PXD076035	2026	Orbitrap Fusion Lumos	Histoplasma ohiense	0	0	0	0	0	0	1		0	skipped	not eligible		
+PXD074426	2026	Orbitrap Fusion	Homo sapiens (human)	1	0	0	0	1	0	0	JB-JN_VHL-CBFb_F12.mgf	1059	False	low-resolution MS2	0.0000	0.0000
+PXD076213	2026	Q Exactive HF	Saccharomyces cerevisiae (baker's yeast); Bos taur	0	1	0	0	0	1	0	Y240819P00121R25034S18_uncalibrated.mzML	2054	False	MS2 does not cover m/z 136	0.0034	0.0136
+PXD074583	2026	Orbitrap Fusion	Akkermansia muciniphila	0	1	0	0	0	0	0	Akk1813_B_2_uncalibrated.mzML	923	False	low-resolution MS2	0.0206	0.0390
+PXD076227	2026	Orbitrap Fusion	Homo sapiens (human)	1	0	0	0	0	0	0	251017_WTA_3_uncalibrated.mzML	731	False	low-resolution MS2	0.0000	0.0000
+PXD074944	2026	Orbitrap Fusion	Mus musculus (mouse)	0	1	0	0	0	0	0	70581_NE1_1ug.MGF	2630	False	low-resolution MS2	0.0228	0.0392
+PXD077494	2026	Q Exactive	Homo sapiens (human)	0	1	0	1	0	0	0		0	skipped	not eligible		
+PXD074707	2026	timsTOF HT	Mesocricetus auratus (golden hamster); Murine noro	1	1	0	0	0	0	0	LN_20241212_T7capping_cond05_rep2_run61_S1-D7_1_5585_calibrated.mzML	1470	False	low-resolution MS2	0.0000	0.0000
+PXD079014	2026	Q Exactive HF	Drosophila melanogaster (fruit fly)	0	1	0	1	0	0	1		0	skipped	not eligible		
+PXD079475	2026	Orbitrap Fusion Lumos	Escherichia coli	1	0	1	1	0	1	1		0	skipped	not eligible		
+PXD076274	2026	Q Exactive HF	Homo sapiens (human)	1	1	0	0	0	0	0	20250226_pepsec8.mgf	2326	True		0.0000	0.0000
+PXD076866	2026	Q Exactive HF	Homo sapiens (human)	0	1	0	0	0	0	1	P301.mgf	4417	True		0.0000	0.0077
+PXD076431	2026	Orbitrap Fusion Lumos	Candida albicans (yeast)	0	1	0	0	0	0	0	200413_Vesicles_Andes.mzML	963	False	low-resolution MS2	0.0125	0.0218
+PXD079900	2026	Orbitrap Exploris 480	Toxoplasma gondii rh	1	0	0	0	0	0	0	2025_10_reanalysis_Man_Gal_Lac_replicate_imputation_ANOVA_abundance_based.mzML	1667	True		0.0000	0.0012
+PXD083967	2026	Vanquish; Orbitrap Exploris 240	Mus musculus (mouse)	0	1	0	0	1	0	0	20241106_DOD_1_164_64.mgf	8340	True		0.0007	0.0016
+PXD080130	2026	Orbitrap Fusion Lumos	Homo sapiens (human)	0	1	1	0	0	0	0	Guemez_ASD_Organoids_UE_No_Norm.mzML	884	False	low-resolution MS2	0.0000	0.0000
+PXD084241	2026	Orbitrap Fusion	Synergistota	0	1	0	0	0	1	0	MichaelLynch10486132_1_R.mgf	501	False	low-resolution MS2	0.0000	0.0000
+PXD073667	2026	timsTOF Pro 2	Homo sapiens (human)	0	1	0	0	0	0	1	2412002_B5_S1-B1_1_12149.d.refined.mgf	2790	False	low-resolution MS2	0.0000	0.0000
+PXD077984	2026	Orbitrap Exploris 480	Homo sapiens (human); Mus musculus (mouse)	1	1	0	0	0	0	1	F154206.mgf	8700	True		0.0026	0.0051

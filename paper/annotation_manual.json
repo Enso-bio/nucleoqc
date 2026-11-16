@@ -1,0 +1,6 @@
+{
+ "_criteria": "Manual review of the snippets written by protocol_annotation.py (14 Nov 2026), sampleProcessingProtocol field only. sonication = sonication of the lysate or of tissue/cells (not of peptides, gel extracts, IP beads or washed precipitates). nuclease = nuclease treatment of the lysate or of the material before MS. phospho = phosphopeptide enrichment (TiO2, IMAC, Fe-NTA, Zr-IMAC, PolyMAC), not TiO2 used for peptide-RNA cross-links. sonication_false_positives: projects matched by the sonication rule but not sonicating the lysate; nuclease_confirmed / phospho_confirmed: projects whose protocol was confirmed by hand.",
+ "sonication_false_positives": ["PXD012798", "PXD019410", "PXD023043", "PXD057635", "PXD060714", "PXD038576", "PXD038967", "PXD014197"],
+ "nuclease_confirmed": ["PXD004592", "PXD004670", "PXD013343", "PXD019590", "PXD022520", "PXD023978", "PXD033650", "PXD039896", "PXD039986", "PXD040602", "PXD046359", "PXD050648", "PXD057036", "PXD058828", "PXD058829", "PXD066295", "PXD069991", "PXD087276", "PXD002656"],
+ "phospho_confirmed": ["PXD003173", "PXD008681", "PXD014648", "PXD015943", "PXD017994", "PXD023674", "PXD028495", "PXD028694", "PXD028789", "PXD032760", "PXD034105", "PXD036323", "PXD040602", "PXD044963", "PXD052300", "PXD054301", "PXD055857", "PXD061601", "PXD067736", "PXD068775", "PXD072006", "PXD081992"]
+}
